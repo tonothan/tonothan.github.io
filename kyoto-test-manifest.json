@@ -1,0 +1,165 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://cfe8bde8-4af6-41d9-8570-e920d88c93af",
+	"@type": "sc:Manifest",
+	"label": "[Click to edit label]",
+	"metadata": [
+		{
+			"label": "Site",
+			"value": {
+				"@value": "平川天満宮",
+				"@language": "jp"
+			}
+		},
+		{
+			"label": "Year",
+			"value": {
+				"@value": "寛政8年9月",
+				"@language": "jp"
+			}
+		},
+		{
+			"label": "Address",
+			"value": {
+				"@value": "千代田区麹町",
+				"@language": "jp"
+			}
+		},
+		{
+			"label": "Prefecture",
+			"value": {
+				"@value": "東京都",
+				"@language": "jp"
+			}
+		}
+	],
+	"description": [
+		{
+			"@value": "Sangaku problem from 平川天満宮, 1796",
+			"@language": "jp"
+		}
+	],
+	"license": "https://rmda.kulib.kyoto-u.ac.jp/reuse",
+	"attribution": [
+		"[Click to edit attribution]",
+		{
+			"@value": "京都大学理学研究科数学教室 , 二次利用自由（条件付き",
+			"@language": "jp"
+		}
+	],
+	"sequences": [
+		{
+			"@id": "http://06bc5588-1c65-4dd0-a981-54d3978fbc70",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://a5e43437-2003-4df9-926e-574058688286",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": "1000",
+					"width": "2000",
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://21bc5eff-22d7-4797-9b4f-f4c8b5a9c724",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00028562/RB00028562_00008_0.ptif/10,10,1140,3000/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00028562/RB00028562_00008_0.ptif",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring",
+												"gray"
+											]
+										}
+									]
+								},
+								"height": 2681,
+								"width": 3561
+							},
+							"on": "http://a5e43437-2003-4df9-926e-574058688286"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://63c5efe8-77b6-444c-8928-990f9ac30f38",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 2681,
+					"width": 3561,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://3443f338-5a9a-4ca1-a9c3-8b0d0c4a42cb",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00028562/RB00028562_00009_0.ptif/2940,10,3000,3000/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00028562/RB00028562_00009_0.ptif",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring",
+												"gray"
+											]
+										}
+									]
+								},
+								"height": 2681,
+								"width": 3561
+							},
+							"on": "http://63c5efe8-77b6-444c-8928-990f9ac30f38"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
