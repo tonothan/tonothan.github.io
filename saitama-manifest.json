@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "file:///Users/admin/Downloads/saitama-manifest.json",
+	"@id": "https://tonothan.github.io/saitama-manifest.json",
 	"@type": "sc:Manifest",
 	"label": "[Click to edit label]",
 	"metadata": [
