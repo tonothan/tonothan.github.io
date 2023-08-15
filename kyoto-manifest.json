@@ -3,15 +3,40 @@
 	"@id": "https://tonothan.github.io/kyoto-manifest.json",
 	"@type": "sc:Manifest",
 	"label": "Problem from Hirakawa Tenmangu Shrine, 1796",
-	"metadata": [],
+	"metadata": [
+		{
+			"label": "Prefecture",
+			"value": "Tokyo"
+		},
+		{
+			"label": "Address",
+			"value": "Chiyoda Ward, Kojimachi"
+		},
+		{
+			"label": "Year",
+			"value": "1796"
+		},
+		{
+			"label": "Prefecture",
+			"value": "Tokyo"
+		},
+		{
+			"label": "Author of problem",
+			"value": "Nobuaki Isawa"
+		},
+		{
+			"label": "School or Teacher",
+			"value": "Sadasuke Fujita"
+		}
+	],
 	"description": [
 		{
-			"@value": "Sangaku problem from Zoku Shinpeki Sanpo, p. 8",
+			"@value": "Sangaku problem printed in Zoku Shinpeki Sanpo, p. 8",
 			"@language": "en"
 		}
 	],
-	"license": "https://rmda.kulib.kyoto-u.ac.jp/reuse",
-	"attribution": "Department of Mathematics, Kyoto University",
+	"license": "Free license with conditions: https://rmda.kulib.kyoto-u.ac.jp/reuse",
+	"attribution": "Department of Mathematics, Kyoto University, https://rmda.kulib.kyoto-u.ac.jp/item/rb00028562",
 	"sequences": [
 		{
 			"@id": "http://79c4c6b9-fa36-472f-a2a6-c2ebb57eeffb",
