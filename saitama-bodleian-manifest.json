@@ -3,20 +3,36 @@
 	"@id": "https://tonothan.github.io/saitama-bodleian-manifest.json",
 	"@type": "sc:Manifest",
 	"label": "Kobuchi Kannon-In, Saitama, 1897",
+	"description": [
+		{
+			"@value": "Sangaku located at Kobuchi Kannon-In, Saitama (located on outside wall)",
+			"@language": "en"
+		}
+	],
 	"metadata": [
 		{
-			"label": "Sources",
-			"value": "Metadata via: 深川英俊著、例題で知る日本の数学と算額 （東京：森北出版、１９９８）\n"
+			"label": "Prefecture",
+			"value": "Saitama"
+		},
+		{
+			"label": "Address",
+			"value": "1634 Kobuchi, Kasukabe, Saitama 344-0007"
 		},
 		{
 			"label": "Year",
 			"value": "1897"
-		}
-	],
-	"description": [
+		},
 		{
-			"@value": "Sangaku located at Kobuchi Kannon-In, Saitama, suspended in eaves",
-			"@language": "en"
+			"label": "Author of problems",
+			"value": "栗原伝三郎直保"
+		},
+		{
+			"label": "Number of Problems",
+			"value": "5"
+		},
+		{
+			"label": "Sources",
+			"value": "Metadata via: 深川英俊著、例題で知る日本の数学と算額 （東京：森北出版、１９９８）\n"
 		}
 	],
 	"license": "https://creativecommons.org/licenses/by/3.0/",
