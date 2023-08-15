@@ -61,7 +61,7 @@
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00028562/RB00028562_00008_0.ptif/10,10,1800,3000/full/0/default.jpg",
+									"@id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00028562/RB00028562_00008_0.ptif",
 									"profile": [
 										"http://iiif.io/api/image/2/level1.json",
 										{
