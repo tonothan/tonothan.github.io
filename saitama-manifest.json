@@ -71,12 +71,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://tonothan.github.io/docs/assets/1897_Saitama_Kobuchi-Kannon-in.jpg",
+								"@id": "http://127.0.0.1:8182/iiif/2/1897_Saitama_Kobuchi-Kannon-in.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://tonothan.github.io/docs/assets/1897_Saitama_Kobuchi-Kannon-in.jpg",
+									"@id": "http://127.0.0.1:8182/iiif/2/1897_Saitama_Kobuchi-Kannon-in.jpg",
 									"profile": [
 										"http://iiif.io/api/image/2/level1.json",
 										{
