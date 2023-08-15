@@ -76,7 +76,7 @@
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "hhttps://tonothan.github.io/docs/assets/1897_Saitama_Kobuchi-Kannon-in.jpg",
+									"@id": "https://tonothan.github.io/docs/assets/1897_Saitama_Kobuchi-Kannon-in.jpg",
 									"profile": [
 										"http://iiif.io/api/image/2/level1.json",
 										{
