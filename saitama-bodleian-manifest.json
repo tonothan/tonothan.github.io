@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://465c8f5f-4cbb-4801-b68f-1dba1c88ed3c",
+	"@id": "https://tonothan.github.io/saitama-bodleian-manifest.json",
 	"@type": "sc:Manifest",
 	"label": "Kobuchi Kannon-In, Saitama, 1897",
 	"metadata": [
