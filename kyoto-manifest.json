@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://85c0d96b-3ebe-4015-bd05-0aa5a6740fe7",
+	"@id": "https://tonothan.github.io/kyoto-manifest.json",
 	"@type": "sc:Manifest",
 	"label": "Problem from Hirakawa Tenmangu Shrine, 1796",
 	"metadata": [],
@@ -31,12 +31,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00028562/RB00028562_00008_0.ptif",
+								"@id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00028562/RB00028562_00008_0.ptif/10,10,1800,3000/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00028562/RB00028562_00008_0.ptif",
+									"@id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00028562/RB00028562_00008_0.ptif/10,10,1800,3000/full/0/default.jpg",
 									"profile": [
 										"http://iiif.io/api/image/2/level1.json",
 										{
