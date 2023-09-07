@@ -104,7 +104,7 @@
 								"width": 3561
 								 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "http://iiif.io/api/image/2.0/example/reference/page1-full",
+                                    "@id": "http://iiif.io/api/image/2.0/example/reference/RB00028562_00008_0.ptif",
                                     "profile": "http://iiif.io/api/image/2/level1.json"
                                 }
 							},
