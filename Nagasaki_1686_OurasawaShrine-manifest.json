@@ -78,7 +78,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "http://127.0.0.1:8182/iiif/2/Nagasaki_1686_OurasawaShrine",
+								"@id": "http://127.0.0.1:8182/iiif/2/Nagasaki_1686_OurasawaShrine.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
