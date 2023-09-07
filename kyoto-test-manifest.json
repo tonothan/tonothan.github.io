@@ -102,6 +102,11 @@
 								},
 								"height": 2681,
 								"width": 3561
+								 "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.io/api/image/2.0/example/reference/page1-full",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
 							},
 							"on": "http://a5e43437-2003-4df9-926e-574058688286"
 						}
