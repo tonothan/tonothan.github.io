@@ -1,0 +1,78 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.com/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": ["SHRINE, PREFECTURE, YEAR", "Alternative Title in English"],
+    "ja": ["神社名, 県, 年号", "日本語の代替タイトル"]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": ["Site"],
+        "ja": ["神社名"]
+      },
+      "value": {
+        "en": ["shrine_en"],
+        "ja": ["shrine_jp"]
+      }
+    },
+    {
+        "label": {
+          "en": ["Prefecture"],
+          "ja": ["県"]
+        },
+        "value": {
+          "en": ["prefecture_en"],
+          "ja": ["prefecture_jp"]
+        }
+      },
+    {
+      "label": {
+        "en": ["Year"],
+        "ja": ["年号"]
+      },
+      "value": {
+        "en": ["year_en"],
+        "ja": ["year_jp"]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "en": ["Copyright Statement"],
+      "ja": ["著作権表示"]
+    },
+    "value": {
+      "en": ["copyright_en"],
+      "ja": ["copyright_jp"]
+    }
+  },
+  "navDate": "year_en",
+  "items": [
+    {
+      "id": "https://example.com/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": ["Image 1"],
+        "ja": ["画像 1"]
+      },
+      "width": 2000,
+      "height": 1000,
+      "items": [
+        {
+          "id": "http://127.0.0.1:8182/iiif/2/nagasaki-sawa-shrine-firstchoice.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 2000,
+          "height": 1000,
+          "service": {
+            "id": "https://example.com/image/1/full",
+            "type": "ImageService3",
+            "profile": "level1"
+          }
+        }
+      ]
+    }
+  ]
+}
