@@ -49,30 +49,129 @@
     }
   },
   "navDate": "year_en",
-  "items": [
+  {
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.com/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": ["SHRINE, PREFECTURE, YEAR", "Alternative Title in English"],
+    "ja": ["神社名, 県, 年号", "日本語の代替タイトル"]
+  },
+  "metadata": [
     {
-      "id": "https://example.com/canvas/1",
-      "type": "Canvas",
       "label": {
-        "en": ["Image 1"],
-        "ja": ["画像 1"]
+        "en": ["Site"],
+        "ja": ["神社名"]
       },
-      "width": 2000,
-      "height": 1000,
-      "items": [
-        {
-          "id": "http://127.0.0.1:8182/iiif/2/1897_Saitama_Kobuchi-Kannon-in.jpg",
-          "type": "Image",
-          "format": "image/jpeg",
-          "width": 2000,
-          "height": 1000,
-          "service": {
-            "id": "https://example.com/image/1/full",
-            "type": "ImageService3",
-            "profile": "level1"
-          }
+      "value": {
+        "en": ["shrine_en"],
+        "ja": ["shrine_jp"]
+      }
+    },
+    {
+        "label": {
+          "en": ["Prefecture"],
+          "ja": ["県"]
+        },
+        "value": {
+          "en": ["prefecture_en"],
+          "ja": ["prefecture_jp"]
         }
-      ]
+      },
+    {
+      "label": {
+        "en": ["Year"],
+        "ja": ["年号"]
+      },
+      "value": {
+        "en": ["year_en"],
+        "ja": ["year_jp"]
+      }
     }
-  ]
+  ],
+  "requiredStatement": {
+    "label": {
+      "en": ["Copyright Statement"],
+      "ja": ["著作権表示"]
+    },
+    "value": {
+      "en": ["copyright_en"],
+      "ja": ["copyright_jp"]
+    }
+  },
+  "navDate": "year_en",
+  "sequences": [
+		{
+
+			//where do these ids come from? investigate
+			"@id": "http://06bc5588-1c65-4dd0-a981-54d3978fbc70",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+
+				// open question: how to do multiple canvases for several images; copy the relevant bit and repopulate? 
+				// possible to have a different attribution for each image? or package all in one attribution?
+				// curtail the book images somehow? or edit them prior? Better to host them via IIIF link or download, curtail and paint them on same canvas?
+			"canvases": [
+
+				{
+					"@id": "http://a5e43437-2003-4df9-926e-574058688286",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": "1000",
+					"width": "2000",
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://21bc5eff-22d7-4797-9b4f-f4c8b5a9c724",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://127.0.0.1:8182/iiif/2/nagasaki-sawa-shrine-firstchoice.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://127.0.0.1:8182/iiif/2/nagasaki-sawa-shrine-firstchoice.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring",
+												"gray"
+											]
+										}
+									]
+								},
+								"height": 4000,
+								"width": 7497
+							},
+							"on": "http://a5e43437-2003-4df9-926e-574058688286"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []  
+}
+
 }
