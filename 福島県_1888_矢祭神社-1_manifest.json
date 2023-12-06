@@ -23,7 +23,7 @@
           "ja": ["住所"]
         },
         "value": {
-          "en": ["prefecture_en"],
+          "en": ["Yamatsuri Town, Higashishirakawa, Fukushima"],
           "ja": ["福島県東白川郡矢祭町"]
         }
       },
@@ -126,6 +126,60 @@
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
 									"@id": "http://127.0.0.1:8182/iiif/2/福島県_1888_矢祭神社-1_front.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"tif"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring",
+												"gray"
+											]
+										}
+									]
+								},
+								"height": 4000,
+								"width": 7497
+							},
+							"on": "http://a5e43437-2003-4df9-926e-574058688286"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	[
+				{
+					"@id": "http://a5e43437-2003-4df9-926e-574058688286",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": "1000",
+					"width": "2000",
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://21bc5eff-22d7-4797-9b4f-f4c8b5a9c724",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://127.0.0.1:8182/iiif/2/福島県_1888_矢祭神社-1_back.tif",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://127.0.0.1:8182/iiif/2/福島県_1888_矢祭神社-1_back.tif",
 									"profile": [
 										"http://iiif.io/api/image/2/level1.json",
 										{
