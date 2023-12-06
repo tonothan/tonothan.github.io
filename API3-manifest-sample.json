@@ -49,61 +49,8 @@
     }
   },
   "navDate": "year_en",
-  {
-  "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://example.com/manifest.json",
-  "type": "Manifest",
-  "label": {
-    "en": ["SHRINE, PREFECTURE, YEAR", "Alternative Title in English"],
-    "ja": ["神社名, 県, 年号", "日本語の代替タイトル"]
-  },
-  "metadata": [
-    {
-      "label": {
-        "en": ["Site"],
-        "ja": ["神社名"]
-      },
-      "value": {
-        "en": ["shrine_en"],
-        "ja": ["shrine_jp"]
-      }
-    },
-    {
-        "label": {
-          "en": ["Prefecture"],
-          "ja": ["県"]
-        },
-        "value": {
-          "en": ["prefecture_en"],
-          "ja": ["prefecture_jp"]
-        }
-      },
-    {
-      "label": {
-        "en": ["Year"],
-        "ja": ["年号"]
-      },
-      "value": {
-        "en": ["year_en"],
-        "ja": ["year_jp"]
-      }
-    }
-  ],
-  "requiredStatement": {
-    "label": {
-      "en": ["Copyright Statement"],
-      "ja": ["著作権表示"]
-    },
-    "value": {
-      "en": ["copyright_en"],
-      "ja": ["copyright_jp"]
-    }
-  },
-  "navDate": "year_en",
   "sequences": [
 		{
-
-			//where do these ids come from? investigate
 			"@id": "http://06bc5588-1c65-4dd0-a981-54d3978fbc70",
 			"@type": "sc:Sequence",
 			"label": [
@@ -112,12 +59,7 @@
 					"@language": "en"
 				}
 			],
-
-				// open question: how to do multiple canvases for several images; copy the relevant bit and repopulate? 
-				// possible to have a different attribution for each image? or package all in one attribution?
-				// curtail the book images somehow? or edit them prior? Better to host them via IIIF link or download, curtail and paint them on same canvas?
 			"canvases": [
-
 				{
 					"@id": "http://a5e43437-2003-4df9-926e-574058688286",
 					"@type": "sc:Canvas",
@@ -173,5 +115,4 @@
 	],
 	"structures": []  
 }
-
 }
