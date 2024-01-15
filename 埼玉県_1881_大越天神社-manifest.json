@@ -117,7 +117,7 @@
 										"http://iiif.io/api/image/2/level1.json",
 										{
 											"formats": [
-												"tif"
+												"jpg"
 											],
 											"qualities": [
 												"native",
