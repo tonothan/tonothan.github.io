@@ -1,0 +1,150 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tonothan.github.io/埼玉県_1881_大越天神社-manifest.json",
+  "type": "Manifest",
+  "label": {
+    "ja": ["埼玉県大越天神社, 明治14年1月"]
+  },
+  "metadata": [
+    {
+      "label": {
+        "ja": ["神社名"]
+      },
+      "value": {
+        "ja": ["天神社"]
+      }
+    },
+    {
+        "label": {
+          "ja": ["住所"]
+        },
+        "value": {
+          "ja": ["加須市大越六間"]
+        }
+      },
+    {
+      "label": {
+        "ja": ["年号"]
+      },
+      "value": {
+        "ja": ["明治14年1月"]
+      }
+    },
+    {
+      "label": {
+        "ja": ["出題者"]
+      },
+      "value": {
+        "ja": ["韶ケ谷要斎"]
+      }
+    },
+{	
+	"label": {
+        "ja": ["総論"]
+      },
+      "value": {
+        "ja": ["協力：中里孝。\n特別に許可頂いて撮影させて頂いています。算額は一般公開はしていません。"]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "ja": ["著作権表示"]
+    },
+    "value": {
+      "ja": ["著作権なし: https://creativecommons.org/publicdomain/zero/1.0/deed.ja"]
+    }
+  },
+  "navDate": "1881",
+  "navPlace": {
+    "id": "https://tonothan.github.io/埼玉県_1881_大越天神社-manifest.json",
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "id": "https://tonothan.github.io/埼玉県_1881_大越天神社-manifest.json",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "Sangaku from Ten Shrine"
+            ],
+            "jp": [
+              "大越天神社の算額"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            139.6192,
+            36.17837
+          ]
+        }
+      }
+    ]
+  },
+  "sequences": [
+		{
+			"@id": "http://06bc5588-1c65-4dd0-a981-54d3978fbc70",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://a5e43437-2003-4df9-926e-574058688286",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": "1000",
+					"width": "2000",
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://21bc5eff-22d7-4797-9b4f-f4c8b5a9c724",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://127.0.0.1:8182/iiif/2/埼玉県_1881_大越天神社.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://127.0.0.1:8182/iiif/2/埼玉県_1881_大越天神社.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"tif"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring",
+												"gray"
+											]
+										}
+									]
+								},
+								"height": 4000,
+								"width": 7497
+							},
+							"on": "http://a5e43437-2003-4df9-926e-574058688286"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+			]
+	}
