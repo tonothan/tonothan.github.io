@@ -38,6 +38,22 @@
         "ja": ["佐久間纉社中"]
       }
     },
+	  {
+      "label": {
+        "ja": ["サイズ"]
+      },
+      "value": {
+        "ja": ["271×89cm"]
+      }
+    },
+	  {
+      "label": {
+        "ja": ["著作権表示"]
+      },
+      "value": {
+        "ja": ["表示 4.0 国際: https://creativecommons.org/licenses/by/4.0/deed.ja"]
+      }
+    },
 {	
 	"label": {
         "ja": ["総論"]
@@ -49,10 +65,10 @@
   ],
   "requiredStatement": {
     "label": {
-      "ja": ["著作権表示"]
+      "ja": ["表示"]
     },
     "value": {
-      "ja": ["表示 4.0 国際：https://creativecommons.org/licenses/by/4.0/deed.ja"]
+      "ja": ["Sangaku Archive：表示 4.0 国際"]
     }
   },
   "navDate": "1860",
