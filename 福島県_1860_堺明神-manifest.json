@@ -107,12 +107,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "http://127.0.0.1:8182/iiif/2/FILENAME",
+								"@id": "http://127.0.0.1:8182/iiif/2/福島県_1860_堺明神.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "http://127.0.0.1:8182/iiif/2/FILENAME",
+									"@id": "http://127.0.0.1:8182/iiif/2/福島県_1860_堺明神.jpg",
 									"profile": [
 										"http://iiif.io/api/image/2/level1.json",
 										{
