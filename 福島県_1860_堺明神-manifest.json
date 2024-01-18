@@ -48,7 +48,7 @@
     },
 	  {
       "label": {
-        "ja": ["著作権表示"]
+        "ja": ["権利関係"]
       },
       "value": {
         "ja": ["表示 4.0 国際: https://creativecommons.org/licenses/by/4.0/deed.ja"]
@@ -68,7 +68,7 @@
       "ja": ["表示"]
     },
     "value": {
-      "ja": ["Sangaku Archive：表示 4.0 国際"]
+      "ja": ["Sangaku Archive"]
     }
   },
   "navDate": "1860",
