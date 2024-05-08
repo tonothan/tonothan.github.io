@@ -1,0 +1,213 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tonothan.github.io/福島県_1878_稲荷神社_manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": ["Inari Shrine, Fukushima, 1878"],
+    "ja": ["稲荷神社, 明治11年"]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": ["Site"],
+        "ja": ["神社名"]
+      },
+      "value": {
+        "en": ["Inari Shrine"],
+        "ja": ["稲荷神社"]
+      }
+    },
+    {
+        "label": {
+          "en": ["Adress"],
+          "ja": ["住所"]
+        },
+        "value": {
+          "en": ["Nakata Town, Koriyama City, Fukushima"],
+          "ja": ["郡山市中田町"]
+        }
+      },
+    {
+      "label": {
+        "en": ["Year"],
+        "ja": ["年号"]
+      },
+      "value": {
+        "en": ["1878"],
+        "ja": ["明治11年"]
+      }
+    },
+    {
+      "label": {
+        "en": ["Contributor"],
+        "ja": ["出題者"]
+      },
+      "value": {
+        "en": ["Sakuma, Hiroyoshi et al."],
+        "ja": ["佐久間広吉他"]
+      }
+    },
+     {
+      "label": {
+        "en": ["Dimensions"],
+        "ja": ["サイズ"]
+      },
+      "value": {
+        "en": ["182x61cm"],
+        "ja": ["182x61ｃｍ"]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "en": ["Copyright Statement"],
+      "ja": ["著作権表示"]
+    },
+    "value": {
+      "en": ["All Rights Reserved"],
+      "ja": ["版権所有"]
+    }
+  },
+  "navDate": "1878",
+  "navPlace": {
+    "id": "https://tonothan.github.io/福島県_1878_稲荷神社_manifest.json",
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "id": "https://tonothan.github.io/福島県_1878_稲荷神社_manifest.json",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "Sangaku from Inari Shrine"
+            ],
+            "jp": [
+              "稲荷神社の算額"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            140.46742,
+            37.3788
+          ]
+        }
+      }
+    ]
+  },
+  "sequences": [
+		{
+			"@id": "http://06bc5588-1c65-4dd0-a981-54d3978fbc70",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://a5e43437-2003-4df9-926e-574058688286",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": "1000",
+					"width": "2000",
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://21bc5eff-22d7-4797-9b4f-f4c8b5a9c724",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://127.0.0.1:8182/iiif/2/福島県_1888_矢祭神社.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://127.0.0.1:8182/iiif/2/福島県_1888_矢祭神社.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"tif"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring",
+												"gray"
+											]
+										}
+									]
+								},
+								"height": 4000,
+								"width": 7497
+							},
+							"on": "http://a5e43437-2003-4df9-926e-574058688286"
+						}
+					],
+					"related": ""
+				}
+			]
+		},
+				{
+					"@id": "http://a5e43437-2003-4df9-926e-574058688286",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": "1000",
+					"width": "2000",
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://21bc5eff-22d7-4797-9b4f-f4c8b5a9c724",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://127.0.0.1:8182/iiif/2/福島県_1888_矢祭神社-1_back.tif",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://127.0.0.1:8182/iiif/2/福島県_1888_矢祭神社-1_back.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"tif"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring",
+												"gray"
+											]
+										}
+									]
+								},
+								"height": 4000,
+								"width": 7497
+							},
+							"on": "http://a5e43437-2003-4df9-926e-574058688286"
+						}
+					],
+					"related": ""
+				}
+			]
+	}
