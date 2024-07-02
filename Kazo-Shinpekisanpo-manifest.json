@@ -90,9 +90,9 @@
 	],
 	"license": "https://rmda.kulib.kyoto-u.ac.jp/reuse",
 	"attribution": [
-		"Zoku Shinpeki Sanpo, images provided by Department of Mathematics, Kyoto University",
+		"京都大学数学教室図書室所：https://rmda.kulib.kyoto-u.ac.jp/reuse",
 		{
-			"@value": "Provided by Department of Mathematics, Kyoto University",
+			"@value": "京都大学数学教室図書室所：https://rmda.kulib.kyoto-u.ac.jp/reuse",
 			"@language": "jp"
 		}
 	],
