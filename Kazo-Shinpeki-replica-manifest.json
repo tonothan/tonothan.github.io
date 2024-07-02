@@ -1,0 +1,171 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://cfe8bde8-4af6-41d9-8570-e920d88c93af",
+	"@type": "sc:Manifest",
+	"label": "レプリカ: 享和2年9月、東京都西窪八幡宮",
+	"metadata": [
+		{
+			"label": "神社名",
+			"value": {
+				"@value": "西窪八幡宮",
+				"@language": "jp"
+			}
+		},
+		{
+			"label": "Site",
+			"value": {
+				"@value": "Nishikubo Hachiman Shrine",
+				"@language": "en"
+			}
+		},
+		{
+			"label": "年号",
+			"value": {
+				"@value": "享和2年9月",
+				"@language": "jp"
+			}
+		},
+		{
+			"label": "Year",
+			"value": {
+				"@value": "1802",
+				"@language": "en"
+			}
+		},
+		{
+			"label": "住所",
+			"value": {
+				"@value": "武蔵野市緑町",
+				"@language": "jp"
+			}
+		},
+		{
+			"label": "Address",
+			"value": {
+				"@value": "Midoricho, Musashino City",
+				"@language": "en"
+			}
+		},
+		{
+			"label": "県",
+			"value": {
+				"@value": "東京都",
+				"@language": "jp"
+			}
+		},
+		{
+			"label": "Prefecture",
+			"value": {
+				"@value": "Tokyo",
+				"@language": "en"
+			}
+		},
+		{
+			"label": "流",
+			"value": {
+				"@value": "関流",
+				"@language": "jp"
+			}
+		},
+		{
+			"label": "School",
+			"value": {
+				"@value": "Seki School",
+				"@language": "en"
+			}
+		},
+		{
+			"label": "出題者",
+			"value": {
+				"@value": "藤田貞資門人山本時憲",
+				"@language": "jp"
+			}
+		},
+		{
+			"label": "Contributor",
+			"value": {
+				"@value": "Yamamoto Tokinori, student of Fujita Sadasuke",
+				"@language": "en"
+			}
+		}
+	],
+	"description": [
+		{
+			"@value": "Sangaku Problem 2, 続神壁算法",
+			"@language": "jp"
+		}
+	],
+	"license": "https://rmda.kulib.kyoto-u.ac.jp/reuse",
+	"attribution": [
+		"京都大学数学教室図書室所：https://rmda.kulib.kyoto-u.ac.jp/reuse",
+		{
+			"@value": "京都大学数学教室図書室所：https://rmda.kulib.kyoto-u.ac.jp/reuse",
+			"@language": "jp"
+		}
+	],
+	"sequences": [
+		{
+			"@id": "http://06bc5588-1c65-4dd0-a981-54d3978fbc70",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://a5e43437-2003-4df9-926e-574058688286",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": "1000",
+					"width": "2000",
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://21bc5eff-22d7-4797-9b4f-f4c8b5a9c724",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://127.0.0.1:8182/iiif/2/RB00028562_00012_0.ptif.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://127.0.0.1:8182/iiif/2/RB00028562_00012_0.ptif.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"png"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring",
+												"gray"
+											]
+										}
+									]
+								},
+								"height": 2247,
+								"width": 1247
+							},
+							"on": "http://a5e43437-2003-4df9-926e-574058688286"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
