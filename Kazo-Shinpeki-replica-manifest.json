@@ -127,12 +127,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "神奈川県＿1804＿松原神社.jpg",
+								"@id": "http://127.0.0.1:8182/iiif/2/神奈川県＿1804＿松原神社.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "神奈川県＿1804＿松原神社.jpg",
+									"@id": "http://127.0.0.1:8182/iiif/2/神奈川県＿1804＿松原神社.jpg",
 									"profile": [
 										"http://iiif.io/api/image/2/level1.json",
 										{
