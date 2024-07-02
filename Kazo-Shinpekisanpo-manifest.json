@@ -2,82 +2,82 @@
 	"@context": "http://iiif.io/api/presentation/2/context.json",
 	"@id": "http://cfe8bde8-4af6-41d9-8570-e920d88c93af",
 	"@type": "sc:Manifest",
-	"label": "Something test",
+	"label": "続神壁算法: 享和2年9月、東京都西窪八幡宮",
 	"metadata": [
 		{
 			"label": "Site",
 			"value": {
-				"@value": "住吉大明神社",
+				"@value": "西窪八幡宮",
 				"@language": "jp"
 			}
 		},
 		{
 			"label": "Site",
 			"value": {
-				"@value": "Sumikichi something Shrine",
+				"@value": "Nishikubo Hachiman Shrine",
 				"@language": "en"
 			}
 		},
 		{
 			"label": "Year",
 			"value": {
-				"@value": "文化元年9月",
+				"@value": "享和2年9月",
 				"@language": "jp"
 			}
 		},
 		{
 			"label": "Year",
 			"value": {
-				"@value": "1804",
+				"@value": "1802",
 				"@language": "en"
 			}
 		},
 		{
 			"label": "Address",
 			"value": {
-				"@value": "小野市垂井町",
+				"@value": "武蔵野市緑町",
 				"@language": "jp"
 			}
 		},
 		{
 			"label": "Prefecture",
 			"value": {
-				"@value": "兵庫県",
+				"@value": "東京都",
 				"@language": "jp"
 			}
 		},
 		{
 			"label": "Prefecture",
 			"value": {
-				"@value": "Hyogo",
+				"@value": "Tokyo",
 				"@language": "en"
 			}
 		},
 		{
 			"label": "School",
 			"value": {
-				"@value": "藤田貞資",
+				"@value": "関流",
 				"@language": "jp"
 			}
 		},
 		{
 			"label": "School",
 			"value": {
-				"@value": "Fujita Teishi",
+				"@value": "Seki School",
 				"@language": "en"
 			}
 		},
 		{
 			"label": "Contributor",
 			"value": {
-				"@value": "高瀬信之",
+				"@value": "藤田貞資門人山本時憲",
 				"@language": "jp"
 			}
 		},
 		{
 			"label": "Contributor",
 			"value": {
-				"@value": "Takase Shinshin",
+				"@value": "Yamamoto Tokinori, student of Fujita Sadasuke",
 				"@language": "en"
 			}
 		}
@@ -120,12 +120,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "http://127.0.0.1:8182/iiif/2/MicrosoftTeams-image.png",
+								"@id": "http://127.0.0.1:8182/iiif/2/RB00028562_00012_0.ptif.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "http://127.0.0.1:8182/iiif/2/MicrosoftTeams-image.png",
+									"@id": "http://127.0.0.1:8182/iiif/2/RB00028562_00012_0.ptif.jpg",
 									"profile": [
 										"http://iiif.io/api/image/2/level1.json",
 										{
