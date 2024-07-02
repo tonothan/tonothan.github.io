@@ -5,7 +5,7 @@
 	"label": "続神壁算法: 享和2年9月、東京都西窪八幡宮",
 	"metadata": [
 		{
-			"label": "Site",
+			"label": "神社名",
 			"value": {
 				"@value": "西窪八幡宮",
 				"@language": "jp"
@@ -19,7 +19,7 @@
 			}
 		},
 		{
-			"label": "Year",
+			"label": "年号",
 			"value": {
 				"@value": "享和2年9月",
 				"@language": "jp"
@@ -33,14 +33,21 @@
 			}
 		},
 		{
-			"label": "Address",
+			"label": "住所",
 			"value": {
 				"@value": "武蔵野市緑町",
 				"@language": "jp"
 			}
 		},
 		{
-			"label": "Prefecture",
+			"label": "Address",
+			"value": {
+				"@value": "Midoricho, Musashino City",
+				"@language": "en"
+			}
+		},
+		{
+			"label": "県",
 			"value": {
 				"@value": "東京都",
 				"@language": "jp"
@@ -54,7 +61,7 @@
 			}
 		},
 		{
-			"label": "School",
+			"label": "流",
 			"value": {
 				"@value": "関流",
 				"@language": "jp"
@@ -68,7 +75,7 @@
 			}
 		},
 		{
-			"label": "Contributor",
+			"label": "出題者",
 			"value": {
 				"@value": "藤田貞資門人山本時憲",
 				"@language": "jp"
