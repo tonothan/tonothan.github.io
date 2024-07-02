@@ -97,9 +97,9 @@
 	],
 	"license": "https://rmda.kulib.kyoto-u.ac.jp/reuse",
 	"attribution": [
-		"京都大学数学教室図書室所：https://rmda.kulib.kyoto-u.ac.jp/reuse",
+		"算額アーカイブ",
 		{
-			"@value": "京都大学数学教室図書室所：https://rmda.kulib.kyoto-u.ac.jp/reuse",
+			"@value": "算額アーカイブ、 表示 - 非営利 4.0 国際: https://creativecommons.org/licenses/by-nc/4.0/deed.ja",
 			"@language": "jp"
 		}
 	],
@@ -127,12 +127,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "http://127.0.0.1:8182/iiif/2/RB00028562_00012_0.ptif.jpg",
+								"@id": "神奈川県＿1804＿松原神社.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "http://127.0.0.1:8182/iiif/2/RB00028562_00012_0.ptif.jpg",
+									"@id": "神奈川県＿1804＿松原神社.jpg",
 									"profile": [
 										"http://iiif.io/api/image/2/level1.json",
 										{
