@@ -2,7 +2,7 @@
 	"@context": "http://iiif.io/api/presentation/2/context.json",
 	"@id": "http://cfe8bde8-4af6-41d9-8570-e920d88c93af",
 	"@type": "sc:Manifest",
-	"label": "レプリカ: 享和2年9月、東京都西窪八幡宮",
+	"label": "福島県田村神社の算額、明治15年陰6月",
 	"metadata": [
 		{
 			"label": "神社名",
@@ -118,7 +118,7 @@
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "http://127.0.0.1:8182/iiif/2/福島県_1878_稲荷神社算額.jpg",
+									"@id": "http://127.0.0.1:8182/iiif/2/福島県_1882_田村神社.jpg",
 									"profile": [
 										"http://iiif.io/api/image/2/level1.json",
 										{
