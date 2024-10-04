@@ -2,7 +2,7 @@
 	"@context": "http://iiif.io/api/presentation/2/context.json",
 	"@id": "http://cfe8bde8-4af6-41d9-8570-e920d88c93af",
 	"@type": "sc:Manifest",
-	"label": "レプリカ: 享和2年9月、東京都西窪八幡宮",
+	"label": "福島県国見稲荷神社の算額, 明治11年",
 	"metadata": [
 		{
 			"label": "神社名",
@@ -75,12 +75,12 @@
 			}
 		}
 	],
-	"description": [
-		{
-			"@value": "福島県国見稲荷神社の算額",
-			"@language": "jp"
-		}
-	],
+	//"description": [
+	//	{
+	//		"@value": "福島県国見稲荷神社の算額",
+	//		"@language": "jp"
+	//	}
+	//],
 	"license": "版権所有",
 	"attribution": [
 		"教育委員会提供",
