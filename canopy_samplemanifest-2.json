@@ -19,11 +19,11 @@
 
   "navDate": "1878",
   "navPlace": {
-    "id": "https://tonothan.github.io/福島県_1878_稲荷神社_manifest.json",
+    "id": "https://tonothan.github.io/canopy_samplemanifest-2.json",
     "type": "FeatureCollection",
     "features": [
       {
-        "id": "https://tonothan.github.io/福島県_1878_稲荷神社_manifest.json",
+        "id": "https://tonothan.github.io/canopy_samplemanifest-2.json",
         "type": "Feature",
         "properties": {
           "label": {
@@ -48,7 +48,7 @@
   
   "items": [
     {
-      "id": "https://example.org/iiif/canvas/1",
+      "id": "https://tonothan.github.io/sangaku-archive.org/sample-sangaku/canvas/1",
       "type": "Canvas",
       "width": 3000,
       "height": 2569,
@@ -58,14 +58,14 @@
       },
       "thumbnail": [
         {
-          "id": "http://127.0.0.1:8182/iiif/2/saitama-blind.0.3.png/full/265,200/0/default.jpg",
+          "id": "http://127.0.0.1:8182/iiif/2/saitama-blind.0.3.png",
           "type": "Image",
           "format": "image/jpeg",
           "width": 265,
           "height": 200,
           "service": [
             {
-              "id": "https://example.org/iiif/image/1",
+              "id": "http://127.0.0.1:8182/iiif/2/saitama-blind.0.3.png",
               "type": "ImageService3",
               "profile": "level1"
             }
@@ -74,11 +74,11 @@
       ],
       "items": [
         {
-          "id": "https://example.org/iiif/canvas/1/annotation-page",
+          "id": "https://tonothan.github.io/sangaku-archive.org/sample-sangaku/canvas/1/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://example.org/iiif/annotation/1",
+              "id": "https://tonothan.github.io/sangaku-archive.org/sample-sangaku/canvas/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -89,7 +89,7 @@
                 "height": 1500,
                 "service": [
                   {
-                    "id": "https://example.org/iiif/image/1",
+                    "id": "http://127.0.0.1:8182/iiif/2/saitama-blind.0.3.png",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
