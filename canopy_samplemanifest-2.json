@@ -16,15 +16,6 @@
       "value": { "en": ["1783"], "ja": ["1783年"] }
     }
   ],
-  "navDate": "1783",
-  "navPlace": {
-    "id": "https://www.geonames.org/2112923",
-    "type": "Place",
-    "label": {
-      "en": ["Fukushima Prefecture, Japan"],
-      "ja": ["福島県、日本"]
-    }
-  },
 
   "navDate": "1878",
   "navPlace": {
