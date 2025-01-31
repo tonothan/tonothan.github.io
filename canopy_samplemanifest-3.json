@@ -3,17 +3,16 @@
   "id": "https://tonothan.github.io/canopy_samplemanifest-3.json",
   "type": "Manifest",
   "label": {
-    "en": ["Sangaku Manifest"],
-    "ja": ["算額 マニフェストの例"]
+    "en": ["Sangaku Manifest"]
   },
   "metadata": [
     {
-      "label": { "en": ["Author"], "ja": ["作者"] },
-      "value": { "en": ["Unknown"], "ja": ["不明"] }
+      "label": { "en": ["Author"] },
+      "value": { "en": ["Unknown"] }
     },
     {
-      "label": { "en": ["Date"], "ja": ["日付"] },
-      "value": { "en": ["1783"], "ja": ["1783年"] }
+      "label": { "en": ["Date"] },
+      "value": { "en": ["1783"] }
     }
   ],
 
@@ -29,9 +28,6 @@
           "label": {
             "en": [
               "Shrine sangaku"
-            ],
-            "jp": [
-              "神社の算額"
             ]
           }
         },
@@ -53,8 +49,7 @@
       "width": 3000,
       "height": 2569,
       "label": {
-        "en": ["Image of a Sangaku Tablet"],
-        "ja": ["算額の画像"]
+        "en": ["Image of a Sangaku Tablet"]
       },
       "thumbnail": [
         {
@@ -112,11 +107,10 @@
               "body": {
                 "type": "TextualBody",
                 "value": {
-                  "en": "This is a historical Sangaku tablet from the Edo period.",
-                  "ja": "これは江戸時代の歴史的な算額です。"
+                  "en": "ANNOTATION ANNOTATION COMMENT COMMENT ANNOTATION."
                 },
                 "format": "text/plain",
-                "language": ["en", "ja"]
+                "language": ["en"]
               },
               "target": "https://tonothan.github.io/canopy_samplemanifest-3.json/canvas/1"
             }
