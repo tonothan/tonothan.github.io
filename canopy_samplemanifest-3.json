@@ -53,7 +53,7 @@
       },
       "thumbnail": [
         {
-          "id": "https://tonothan.github.io/1897_Saitama_Kobuchi-Kannon-in.JPG",
+          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00028562%2FRB00028562_00003_0.ptif/full/max/0/default.png",
           "type": "Image",
           "format": "image/jpeg",
           "width": 265,
@@ -103,14 +103,14 @@
             {
               "id": "https://tonothan.github.io/canopy_samplemanifest-3.json/annotation/text/1/1",
               "type": "Annotation",
-              "motivation": "commenting",
+              "motivation": "supplementing",
               "body": {
                 "type": "TextualBody",
                 "value": {
                   "en": "ANNOTATION ANNOTATION COMMENT COMMENT ANNOTATION."
                 },
                 "format": "text/plain",
-                "language": ["en"]
+                "language": "en"
               },
               "target": "https://tonothan.github.io/canopy_samplemanifest-3.json/canvas/1"
             }
