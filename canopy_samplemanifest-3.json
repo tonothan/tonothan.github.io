@@ -106,11 +106,9 @@
               "motivation": "supplementing",
               "body": {
                 "type": "TextualBody",
-                "value": {
-                  "en": "ANNOTATION ANNOTATION COMMENT COMMENT ANNOTATION."
-                },
-                "format": "text/plain",
-                "language": "en"
+                "language": "en",
+                "value":  "ANNOTATION ANNOTATION COMMENT COMMENT ANNOTATION.",
+                "format": "text/plain"
               },
               "target": "https://tonothan.github.io/canopy_samplemanifest-3.json/canvas/1"
             }
