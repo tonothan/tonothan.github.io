@@ -53,7 +53,7 @@
       },
       "thumbnail": [
         {
-          "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00028562%2FRB00028562_00003_0.ptif/full/max/0/default.png",
+          "id": "http://127.0.0.1:8182/iiif/2/sample-sangaku.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "width": 265,
@@ -77,14 +77,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://tonothan.github.io/1897_Saitama_Kobuchi-Kannon-in.JPG",
+                "id": "http://127.0.0.1:8182/iiif/2/sample-sangaku.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 2000,
                 "height": 1500,
                 "service": [
                   {
-                    "id": "https://tonothan.github.io/1897_Saitama_Kobuchi-Kannon-in.JPG",
+                    "id": "http://127.0.0.1:8182/iiif/2/sample-sangaku.jpg",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
