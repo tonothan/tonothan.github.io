@@ -55,7 +55,7 @@
         {
           "id": "http://127.0.0.1:8182/iiif/2/sample-sangaku.jpg/full/200,/0/default.jpg",
           "type": "Image",
-          "format": "image/jpeg"
+          "format": "image/jpeg",
           "service": [
             {
               "id": "http://127.0.0.1:8182/iiif/2/sample-sangaku.jpg",
