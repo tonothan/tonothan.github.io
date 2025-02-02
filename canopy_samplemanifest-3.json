@@ -60,7 +60,7 @@
             {
               "id": "http://127.0.0.1:8182/iiif/2/sample-sangaku.jpg",
               "type": "ImageService3",
-              "profile": "level1"
+              "profile": "http://iiif.io/api/image/2/level1.json"
             }
           ]
         }
