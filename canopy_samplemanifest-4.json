@@ -53,7 +53,7 @@
       },
       "thumbnail": [
         {
-          "id": "http://127.0.0.1:8182/iiif/2/sample-sangaku.jpg/full/200,/0/default.jpg",
+          "id": "http://127.0.0.1:8182/iiif/2/sample-sangaku.jpg/full/!200,200/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
