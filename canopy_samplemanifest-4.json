@@ -3,12 +3,12 @@
   "id": "https://tonothan.github.io/canopy_samplemanifest-4.json",
   "type": "Manifest",
   "label": {
-    "en": ["Sangaku Manifest"]
+    "en": ["Sangaku Manifest 4"]
   },
   "metadata": [
     {
       "label": { "en": ["Author"] },
-      "value": { "en": ["Unknown"] }
+      "value": { "en": ["Unknown 4"] }
     },
     {
       "label": { "en": ["Date"] },
@@ -105,7 +105,7 @@
               "body": {
                 "type": "TextualBody",
                 "language": "en",
-                "value":  "ANNOTATION ANNOTATION COMMENT COMMENT ANNOTATION.",
+                "value":  "DEBUGGING ANNOTATION FOR SAMPLE MANIFEST 4.",
                 "format": "text/plain"
               },
               "target": "https://tonothan.github.io/canopy_samplemanifest-4.json/canvas/1"
