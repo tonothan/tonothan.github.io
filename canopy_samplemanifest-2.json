@@ -8,16 +8,16 @@
   },
   "metadata": [
     {
-      "label": { "en": ["Author"], "ja": ["作者"] },
-      "value": { "en": ["Unknown"], "ja": ["不明"] }
+      "label": { "en": ["Author"]},
+      "value": { "en": ["Person One"] }
     },
     {
-      "label": { "en": ["Date"], "ja": ["日付"] },
-      "value": { "en": ["1783"], "ja": ["1783年"] }
+      "label": { "en": ["Date"] },
+      "value": { "en": ["1783"] }
     }
   ],
 
-  "navDate": "1878",
+  "navDate": "1783",
   "navPlace": {
     "id": "https://tonothan.github.io/canopy_samplemanifest-2.json",
     "type": "FeatureCollection",
@@ -29,9 +29,6 @@
           "label": {
             "en": [
               "Shrine sangaku"
-            ],
-            "jp": [
-              "神社の算額"
             ]
           }
         },
@@ -48,37 +45,34 @@
   
   "items": [
     {
-      "id": "https://tonothan.github.io/sangaku-archive.org/sample-sangaku/canvas/1",
+      "id": "https://tonothan.github.io/sangaku-archive.org/canopy_samplemanifest-2.json/canvas/1",
       "type": "Canvas",
       "width": 3000,
       "height": 2569,
       "label": {
-        "en": ["Image of a Sangaku Tablet"],
-        "ja": ["算額の画像"]
+        "en": ["Image of a Sangaku Tablet"]
       },
       "thumbnail": [
         {
-          "id": "http://127.0.0.1:8182/iiif/2/saitama-blind.0.3.png",
+          "id": "http://127.0.0.1:8182/iiif/2/saitama-blind.0.3.png/full/200,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
-          "width": 265,
-          "height": 200,
           "service": [
             {
               "id": "http://127.0.0.1:8182/iiif/2/saitama-blind.0.3.png",
               "type": "ImageService3",
-              "profile": "level1"
+              "profile": "http://iiif.io/api/image/2/level1.json"
             }
           ]
         }
       ],
       "items": [
         {
-          "id": "https://tonothan.github.io/sangaku-archive.org/sample-sangaku/canvas/1/annotation-page",
+          "id": "https://tonothan.github.io/canopy_samplemanifest-2.json/canvas/1/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://tonothan.github.io/sangaku-archive.org/sample-sangaku/canvas/1/annotation/1",
+              "id": "https://tonothan.github.io/canopy_samplemanifest-2.json/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -95,30 +89,29 @@
                   }
                 ]
               },
-              "target": "https://example.org/iiif/canvas/1"
+              "target": "https://tonothan.github.io/canopy_samplemanifest-2.json/canvas/1"
             }
           ]
         }
       ],
       "annotations": [
         {
-          "id": "https://example.org/iiif/annotation/text/1",
+          "id": "https://tonothan.github.io/canopy_samplemanifest-2.json/annotation/text/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://example.org/iiif/annotation/text/1/1",
+              "id": "https://tonothan.github.io/canopy_samplemanifest-2.json/annotation/text/1/1",
               "type": "Annotation",
-              "motivation": "commenting",
+              "motivation": "supplementing",
               "body": {
                 "type": "TextualBody",
                 "value": {
-                  "en": "This is a historical Sangaku tablet from the Edo period.",
-                  "ja": "これは江戸時代の歴史的な算額です。"
+                  "en": "This is a historical Sangaku tablet from the Edo period. Let this be some translation."
                 },
                 "format": "text/plain",
-                "language": ["en", "ja"]
+                "language": ["en"]
               },
-              "target": "https://example.org/iiif/canvas/1"
+              "target": "https://tonothan.github.io/canopy_samplemanifest-2.json/canvas/1"
             }
           ]
         }
