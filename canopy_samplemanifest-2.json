@@ -3,13 +3,12 @@
   "id": "https://example.org/iiif/manifest",
   "type": "Manifest",
   "label": {
-    "en": ["Sangaku Manifest"],
-    "ja": ["算額 マニフェストの例"]
+    "en": ["Sangaku Manifest 2"]
   },
   "metadata": [
     {
       "label": { "en": ["Author"]},
-      "value": { "en": ["Person One"] }
+      "value": { "en": ["Person 2"] }
     },
     {
       "label": { "en": ["Date"] },
