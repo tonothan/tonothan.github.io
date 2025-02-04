@@ -15,12 +15,12 @@
       "value": { "en": ["1878"] }
     },
   {
-    "label": "Translation",
-    "value": "This is the translated text."
+    "label": { "en": ["Translation"},
+    "value": { "en": ["This is the translated text."] }
   },
   {
-    "label": "Transcription",
-    "value": "Original script text."
+    "label": { "en": ["Transcription"] },
+    "value": { "en": ["Original script text."] }
   } 
   ],
 
