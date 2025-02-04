@@ -12,8 +12,16 @@
     },
     {
       "label": { "en": ["Date"] },
-      "value": { "en": ["1783"] }
-    }
+      "value": { "en": ["1878"] }
+    },
+  {
+    "label": "Translation",
+    "value": "This is the translated text."
+  },
+  {
+    "label": "Transcription",
+    "value": "Original script text."
+  } 
   ],
 
   "navDate": "1878",
@@ -87,26 +95,6 @@
                     "profile": "level1"
                   }
                 ]
-              },
-              "target": "https://tonothan.github.io/canopy_samplemanifest-3.json/canvas/1"
-            }
-          ]
-        }
-      ],
-      "annotations": [
-        {
-          "id": "https://tonothan.github.io/canopy_samplemanifest-3.json/annotation/text/1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://tonothan.github.io/canopy_samplemanifest-3.json/annotation/text/1/1",
-              "type": "Annotation",
-              "motivation": "supplementing",
-              "body": {
-                "type": "TextualBody",
-                "language": "en",
-                "value":  "ANNOTATION ANNOTATION COMMENT COMMENT ANNOTATION.",
-                "format": "text/plain"
               },
               "target": "https://tonothan.github.io/canopy_samplemanifest-3.json/canvas/1"
             }
