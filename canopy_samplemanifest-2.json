@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://example.org/iiif/manifest",
+  "id": "https://tonothan.github.io/canopy_samplemanifest-2.json",
   "type": "Manifest",
   "label": {
     "en": ["Sangaku Manifest 2"]
