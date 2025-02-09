@@ -49,8 +49,16 @@
   "value": {"en": ["This should include sangaku_metadata/notes_en"],"ja": ["This should include sangaku_metadata/notes_jp"],"none": ["This should include sangaku_metadata/notes_jp and sangaku_metadata/notes_en"]}
 },
   {
-  "label": {"en": ["Visitor Info"],"ja": ["アクセス"]},
-  "value": {"en": ["This should include sangaku_images/visitorinfo_en"],"ja": ["This should include sangaku_images/visitorinfo_jp"],"none": [´"This should include sangaku_images/visitorinfo_jp and sangaku_images/visitorinfo_en"]}
+  "label": {
+    "en": ["Visitor Info"],
+    "ja": ["アクセス"],
+    "none": ["アクセス/Visitor Info"]
+  },
+  "value": {
+    "en": ["This should include sangaku_images/visitorinfo_en"],
+    "ja": ["This should include sangaku_images/visitorinfo_jp"],
+    "none": ["This should include sangaku_images/visitorinfo_jp and sangaku_images/visitorinfo_en"]
+  }
 }
 ],
 
