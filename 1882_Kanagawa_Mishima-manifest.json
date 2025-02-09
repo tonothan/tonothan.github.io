@@ -1,6 +1,6 @@
 {
 "@context": "http://iiif.io/api/presentation/3/context.json",
-"id": "https://sangaku-archive.org/app/api/manifests/3/141.json",
+"id": "https://tonothan.github.io/1882_Kanagawa_Mishima-manifest.json",
 "type": "Manifest",
 "label": {
   "en": ["Mishima Shrine, Kanagawa, 1882 (Original)."],
