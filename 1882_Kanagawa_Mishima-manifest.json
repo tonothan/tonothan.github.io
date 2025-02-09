@@ -91,10 +91,8 @@
     ]
   },
   
-{
-  "items": [
-    {
-      "id": "https://tonothan.github.io/1882_Kanagawa_Mishima-manifest.json/canvas/01",
+{"items": [
+    {  "id": "https://tonothan.github.io/1882_Kanagawa_Mishima-manifest.json/canvas/01",
       "type": "Canvas",
       "label": {
         "en": [
