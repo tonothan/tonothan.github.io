@@ -10,7 +10,7 @@
   "requiredStatement": {
     "label": {"en": ["Attribution"],"ja": ["ATTRIBUTION JAPANESE"],"none": ["ATTRIBUTION ENGLISH/ATTRIBUTION JAPANESE"]},
     "value": {
-      "en": [ "<span>Photographed with kind permission of Mishima Shrine. Published under <a href=\"https://creativecommons.org/licenses/by-nc/4.0/deed.en">CC BY-NC 4.0</a> license</span>"]
+      "en": [ "<span>Photographed with kind permission of Mishima Shrine. Published under <a href=\"https://creativecommons.org/licenses/by-nc/4.0/deed.en">CC BY-NC 4.0</a> license</span>"],
       "ja": ["<span>Photographed with kind permission of Mishima Shrine. <a href=\"https://creativecommons.org/licenses/by-nc/4.0/deed.ja">表示 - 非営利 4.0 国際</a></span>"]
     }
   },
