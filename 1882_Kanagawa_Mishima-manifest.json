@@ -7,6 +7,13 @@
   "ja": ["神奈川, 三嶋神社, 明治15年 (Original)."],
 "none": ["Mishima Shrine, Kanagawa, 1882 (Original)."]
 },
+  "requiredStatement": {
+    "label": {"en": ["Attribution"],"ja": ["ATTRIBUTION JAPANESE"],"none": ["ATTRIBUTION ENGLISH/ATTRIBUTION JAPANESE"]},
+    "value": {
+      "en": [ "<span>Photographed with kind permission of Mishima Shrine. Published under <a href=\"https://creativecommons.org/licenses/by-nc/4.0/deed.en">CC BY-NC 4.0</a> license</span>"]
+      "ja": ["<span>Photographed with kind permission of Mishima Shrine. <a href=\"https://creativecommons.org/licenses/by-nc/4.0/deed.ja">表示 - 非営利 4.0 国際</a></span>"]
+    }
+  },
 "metadata": [
 {
   "label": {"en": ["Year"], "ja": ["年"]},
@@ -33,12 +40,16 @@
   "value": {"en": [""],"ja": [""],"none": ["/"]}
 },
 {
-  "label": {"en": ["Notes"],"ja": ["備考"]},
-  "value": {"en": [""],"ja": ["町指定文化財"],"none": [´"/町指定文化財"]}
+  "label": {"en": ["Size"],"ja": ["寸法"]},
+  "value": {"none": ["Width x Height"]}
 },
 {
-  "label": {"en": ["Size"],"ja": ["寸法"]},
-  "value": {"none": [""]}
+  "label": {"en": ["Notes"],"ja": ["備考"]},
+  "value": {"en": ["This should include sangaku_metadata/notes_en"],"ja": ["This should include sangaku_metadata/notes_jp"],"none": ["This should include sangaku_metadata/notes_jp and sangaku_metadata/notes_en"]}
+},
+  {
+  "label": {"en": ["Visitor Info"],"ja": ["アクセス"]},
+  "value": {"en": ["This should include sangaku_images/visitorinfo_en"],"ja": ["This should include sangaku_images/visitorinfo_jp"],"none": [´"This should include sangaku_images/visitorinfo_jp and sangaku_images/visitorinfo_en"]}
 }
 ],
 
