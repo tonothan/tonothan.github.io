@@ -36,7 +36,14 @@
         "label": {
           "en": ["Sangaku Tablet 39"]
         }
-      }
+      },
+        {
+        "id": "https://tonothan.github.io/1882_Kanagawa_Mishima-manifest.json",
+        "type": "Manifest",
+        "label": {
+          "en": ["Mishima Sangaku"]
+        }
+      } 
     ],
     "seeAlso": [
       {
