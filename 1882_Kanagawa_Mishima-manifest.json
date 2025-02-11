@@ -7,7 +7,7 @@
   "ja": ["神奈川, 三嶋神社, 明治15年 (Original)."]
 },
   "requiredStatement": {
-    "label": {"en": ["Attribution"],"ja": ["ATTRIBUTION JAPANESE"],"none": ["ATTRIBUTION ENGLISH/ATTRIBUTION JAPANESE"]},
+    "label": {"en": ["Attribution"],"ja": ["ATTRIBUTION JAPANESE"]},
     "value": {
       "en": ["Photographed with kind permission of Mishima Shrine. Published under CC BY-NC 4.0 license: https://creativecommons.org/licenses/by-nc/4.0/deed.en"],
       "ja": ["Photographed with kind permission of Mishima Shrine. Published under 表示 - 非営利 4.0 国際: https://creativecommons.org/licenses/by-nc/4.0/deed.ja"]
