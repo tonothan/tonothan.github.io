@@ -1,14 +1,14 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://tonothan.github.io/canopy_samplemanifest-4.json",
+  "id": "https://tonothan.github.io/canopy_samplemanifest-Mishima.json",
   "type": "Manifest",
   "label": {
-    "en": ["Sangaku Manifest 4"]
+    "en": ["Mishima Sample Mix"]
   },
   "metadata": [
     {
       "label": { "en": ["Author"] },
-      "value": { "en": ["Unknown 4"] }
+      "value": { "en": ["Mishima 1"] }
     },
     {
       "label": { "en": ["Date"] },
