@@ -130,7 +130,7 @@
       ],
       "thumbnail": [
         {
-          "id": "http://127.0.0.1:8182/iiif/2/1882_Kanagawa_Mishima.jpg/full/!265,200/0/default.jpg",
+          "id": "http://127.0.0.1:8182/iiif/2/1882_Kanagawa_Mishima.jpg/full/!385,200/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "width": 265,
