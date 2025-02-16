@@ -113,8 +113,8 @@
                 "id": "http://127.0.0.1:8182/iiif/2/1882_Kanagawa_Mishima.jpg/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 3850,
-                "height": 2000,
+                "width": 2000,
+                "height": 1500,
                 "service": [
                   {
                     "id": "https://tonothan.github.io/1882_Kanagawa_Mishima.jpg",
