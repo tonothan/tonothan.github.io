@@ -133,7 +133,12 @@
           "id": "http://127.0.0.1:8182/iiif/2/1882_Kanagawa_Mishima.jpg/full/!200,200/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
+          "width": 200,
+          "height": 150,
           "viewingDirection": "right-to-left",
+          "behavior": [
+            "individuals"
+          ],
           "service": [
             {
               "id": "http://127.0.0.1:8182/iiif/2/1882_Kanagawa_Mishima.jpg",
