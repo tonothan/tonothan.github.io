@@ -57,7 +57,7 @@
       },
       "thumbnail": [
         {
-          "id": "http://127.0.0.1:8182/iiif/2/saitama-blind.0.3.png/full/265,200/0/default.jpg",
+          "id": "http://127.0.0.1:8182/iiif/2/saitama-blind.0.3.png/full/!200,200/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "width": 200,
