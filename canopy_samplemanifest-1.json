@@ -107,7 +107,7 @@
             {
               "id": "https://tonothan.github.io/canopy_samplemanifest-1.json/annotation/text/1/1",
               "type": "Annotation",
-              "motivation": "commenting",
+              "motivation": "supplementing",
               "body": {
                 "type": "TextualBody",
                 "value": {
