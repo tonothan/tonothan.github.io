@@ -11,7 +11,7 @@
       "value": { "en": ["Unknown"], "ja": ["誰も"] }
     },
     {
-      "label": { "en": ["Date"], "ja": ["年"] },
+      "label": { "en": ["Year"], "ja": ["年"] },
       "value": { "en": ["1783"], "ja": ["明治４年"] }
     }
   ],
@@ -57,14 +57,14 @@
       },
       "thumbnail": [
         {
-          "id": "http://127.0.0.1:8182/iiif/2/saitama-blind.0.3.png/full/!200,200/0/default.jpg",
+          "id": "http://127.0.0.1:8182/iiif/2/shinpeki-sanpo-000012.jpg/full/!200,200/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "width": 200,
           "height": 150,
           "service": [
             {
-              "id": "http://127.0.0.1:8182/iiif/2/saitama-blind.0.3.png",
+              "id": "http://127.0.0.1:8182/iiif/2/shinpeki-sanpo-000012.jpg",
               "type": "ImageService3",
               "profile": "level1"
             }
@@ -81,14 +81,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://127.0.0.1:8182/iiif/2/saitama-blind.0.3.png//full/max/0/default.jpg",
+                "id": "http://127.0.0.1:8182/iiif/2/shinpeki-sanpo-000012.jpg//full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 2000,
                 "height": 1500,
                 "service": [
                   {
-                    "id": "http://127.0.0.1:8182/iiif/2/saitama-blind.0.3.png",
+                    "id": "http://127.0.0.1:8182/iiif/2/shinpeki-sanpo-000012.jpg",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
