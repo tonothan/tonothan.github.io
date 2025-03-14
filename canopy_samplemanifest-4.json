@@ -46,8 +46,8 @@
     {
       "id": "https://tonothan.github.io/canopy_samplemanifest-4.json/canvas/1",
       "type": "Canvas",
-      "width": 3000,
-      "height": 2569,
+      "width": 1500,
+      "height": 1285,
       "label": {
         "en": ["Image of a Sangaku Tablet"]
       },
