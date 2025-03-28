@@ -117,7 +117,7 @@
             }
         }
     ],
-    "navDate": "year_en",
+    "navDate": "1859",
     "navPlace": {
         "id": "https://tonothan.github.io/1859_Chiba_Kinjo-in_273.json",
         "type": "FeatureCollection",
@@ -148,7 +148,7 @@
             "type": "Canvas",
             "label": {
                 "en": [
-                    "\u30fb"
+                    "some-string"
                 ]
             },
             "items": [
