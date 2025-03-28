@@ -23,47 +23,11 @@
             }
         },
         {
-            "id": "https://tonothan.github.io/1822_Kanagawa_Samukawa_364.json",
+            "id": "https://sangaku-archive.org/app/api/sangaku_manifests/3/173.json",
             "type": "Manifest",
             "label": {
                 "en": [
-                    "神奈川寒川神社の算額 (レプリカ)・Sangaku of Samukawa Shrine, Kanagawa (Replica)"
-                ]
-            }
-        },
-        {
-            "id": "https://tonothan.github.io/1882_Kanagawa_Mishima_371.json",
-            "type": "Manifest",
-            "label": {
-                "en": [
-                    "神奈川三嶋神社の算額 (現物)・Sangaku of Mishima Shrine, Kanagawa (Original)"
-                ]
-            }
-        },
-        {
-            "id": "https://tonothan.github.io/1882_Kanagawa_Mishima_372.json",
-            "type": "Manifest",
-            "label": {
-                "en": [
-                    "神奈川三嶋神社の算額 (レプリカ)・Sangaku of Mishima Shrine, Kanagawa (Replica)"
-                ]
-            }
-        },
-        {
-            "id": "https://tonothan.github.io/1893_Kanagawa_Shinpukuji_374.json",
-            "type": "Manifest",
-            "label": {
-                "en": [
-                    "神奈川真福寺の算額 (現物)・Sangaku of Shinpukuji Temple, Kanagawa (Original)"
-                ]
-            }
-        },
-        {
-            "id": "https://tonothan.github.io/1893_Kanagawa_Shinpukuji_375.json",
-            "type": "Manifest",
-            "label": {
-                "en": [
-                    "神奈川真福寺の算額 (現物)・Sangaku of Shinpukuji Temple, Kanagawa (Original)"
+                    "API TEST"
                 ]
             }
         }
