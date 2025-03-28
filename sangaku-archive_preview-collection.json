@@ -14,11 +14,155 @@
     },
     "items": [
         {
+            "id": "https://tonothan.github.io/1785_Kanagawa_Matsubara_360.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "神奈川松原神社 の算額 (レプリカ)・Sangaku of Matsubara Shrine, Kanagawa (Replica)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1801_Kanagawa_Matsubara_361.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "神奈川松原神社 の算額 (レプリカ)・Sangaku of Matsubara Shrine, Kanagawa (Replica)"
+                ]
+            }
+        },
+        {
             "id": "https://tonothan.github.io/1809_Kanagawa_Shinpukuji_362.json",
             "type": "Manifest",
             "label": {
                 "en": [
                     "神奈川真福寺の算額 (現物)・Sangaku of Shinpukuji Temple, Kanagawa (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1814_Kanagawa_Kano_363.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "神奈川叶神社の算額 (レプリカ)・Sangaku of Kano Shrine, Kanagawa (Replica)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1822_Kanagawa_Samukawa_364.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "神奈川寒川神社の算額 (レプリカ)・Sangaku of Samukawa Shrine, Kanagawa (Replica)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1823_Kanagawa_Suga_365.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "神奈川須賀神社の算額 (現物)・Sangaku of Suga Shrine, Kanagawa (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1850_Kanagawa_Ono_366.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "神奈川小野神社の算額 (湿拓)・Sangaku of Ono Shrine, Kanagawa (Wet Rubbing)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1851_Kanagawa_Oinari_367.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "神奈川大稲荷神社の算額 (現物)・Sangaku of Oinari Shrine, Kanagawa (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1851_Kanagawa_Oinari_368.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "神奈川大稲荷神社の算額 (レプリカ)・Sangaku of Oinari Shrine, Kanagawa (Replica)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1867_Kanagawa_Matsubara_369.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "神奈川松原神社 の算額 (レプリカ)・Sangaku of Matsubara Shrine, Kanagawa (Replica)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1880_Kanagawa_Shioka_370.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "神奈川師岡熊野神社の算額 (現物)・Sangaku of Shioka Kumano Shrine, Kanagawa (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1882_Kanagawa_Mishima_371.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "神奈川三嶋神社の算額 (現物)・Sangaku of Mishima Shrine, Kanagawa (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1882_Kanagawa_Mishima_372.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "神奈川三嶋神社の算額 (レプリカ)・Sangaku of Mishima Shrine, Kanagawa (Replica)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1889_Kanagawa_Hishigasa_373.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "神奈川菱笠神社の算額 (現物)・Sangaku of Hishigasa Shrine, Kanagawa (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1893_Kanagawa_Shinpukuji_374.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "神奈川真福寺の算額 (現物)・Sangaku of Shinpukuji Temple, Kanagawa (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1893_Kanagawa_Shinpukuji_375.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "神奈川真福寺の算額 (現物)・Sangaku of Shinpukuji Temple, Kanagawa (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1922_Kanagawa_Hibita_376.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "神奈川比々多神社の算額 (現物)・Sangaku of Hibita Shrine, Kanagawa (Original)"
                 ]
             }
         },
