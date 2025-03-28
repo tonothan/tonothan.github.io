@@ -127,7 +127,7 @@
                 "type": "Feature",
                 "properties": {
                     "label": {
-                        "none": [
+                        "en": [
                             "Label in Japanese\u30fbLabel in English"
                         ]
                     }
@@ -147,7 +147,7 @@
             "id": "https://tonothan.github.io/1859_Chiba_Kinjo-in_273.json/canvas/01",
             "type": "Canvas",
             "label": {
-                "none": [
+                "en": [
                     "\u30fb"
                 ]
             },
