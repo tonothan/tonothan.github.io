@@ -23,6 +23,114 @@
             }
         },
         {
+            "id": "https://tonothan.github.io/1809_Kanagawa_Shinpukuji_362.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "神奈川真福寺の算額 (現物)・Sangaku of Shinpukuji Temple, Kanagawa (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1828_Saitama_Enshoji_607.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "埼玉県圓正寺の算額 (現物)・Sangaku of Enshoji Temple, Saitama ()"
+                ]
+            }
+        },
+         {
+            "id": "https://tonothan.github.io/1840_Saitama_Akiba_613.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "埼玉県秋葉神社の算額 (現物)・Sangaku of Akiba Shrine, Saitama (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1844_Gunma_Tamamura_396.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "群馬県玉村八幡宮の算額 (現物)・Sangaku of Tamamura Hachiman Shrine, Gunma (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1845_Saitama_Iinuma_615.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "埼玉県飯沼香取神社の算額 (現物)・Sangaku of Iinuma Katori Shrine, Saitama (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1848_Saitama_Tamai_619.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "埼玉県玉井大神社 の算額 (現物)・Sangaku of Tamai Shrine, Saitama (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1854_Tochigi_Mine_343.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "栃木県峯薬師堂の算額 (現物)・Sangaku of Mine Yakushido, Tochigi (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1856_Gunma_Yoshioka_407.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "群馬県吉岡神社の算額 (現物)・Sangaku of Yoshioka Shrine, Gunma (Original)"
+                ]
+            }
+        },
+          {
+            "id": "https://tonothan.github.io/1867_Gunma_Kuragano_416.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "群馬県倉賀野神社の算額 (現物)・Sangaku of Kuragano Shrine, Gunma (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1868_Gunma_Sumiyoshi_419.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "群馬県住吉神社の算額 (現物)・Sangaku of Sumiyoshi Shrine, Gunma (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1868_Tokyo_Ootori_316.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "東京大鷲神社の算額 (現物)・Sangaku of Ootori Shrine, Tokyo (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1869_Chiba_Naritasan_278.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県大本山成田山新勝寺の算額 (現物)・Sangaku of Naritasan Shinshoji Temple, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
             "id": "https://tonothan.github.io/1779_Chiba_Kinjo-in_260.json",
             "type": "Manifest",
             "label": {
