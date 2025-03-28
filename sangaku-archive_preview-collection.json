@@ -21,6 +21,357 @@
                     "神奈川真福寺の算額 (現物)・Sangaku of Shinpukuji Temple, Kanagawa (Original)"
                 ]
             }
+        },
+        {
+            "id": "https://tonothan.github.io/1779_Chiba_Kinjo-in_260.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県金乗院の算額 (現物)・Sangaku of Kinjo-in Temple, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1811_Chiba_Yakumo_263.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県八雲神社の算額 (現物)・Sangaku of Yakumo Shrine, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1814_Chiba_Iizuna_264.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県飯縄寺の算額 (不明)・Sangaku of Iizuna Temple, Chiba Prefecture (Lost)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1817_Chiba_Hachiman_265.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県八幡神社の算額 (レプリカ)・Sangaku of Hachiman Shrine, Chiba Prefecture (Replica)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1819_Chiba_Gunkannon_266.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県郡観音堂の算額 (現物)・Sangaku of Gunkannon Hall, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1830_Chiba_Ryufukuji_267.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県龍福寺(岩井不動)の算額 (現物)・Sangaku of Ryufukuji Temple (Iwai Fudo), Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1836_Chiba_Rokusho_268.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県六所神社の算額 (現物)・Sangaku of Rokusho Shrine, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1844_Chiba_Shinmidoji_269.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県新御堂寺の算額 (現物)・Sangaku of Shinmidoji Temple, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1849_Chiba_Kiyomizu_270.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県清水寺の算額 (現物)・Sangaku of Kiyomizu Temple, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1850_Chiba_Totokuji_271.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県東徳寺の算額 (現物)・Sangaku of Totokuji Temple, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1852_Chiba_Enmeiji_272.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県延命寺の算額 (現物)・Sangaku of Enmeiji Temple, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1859_Chiba_Kinjo-in_273.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県金乗院の算額 (現物)・Sangaku of Kinjo-in Temple, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1861_Chiba_Ryukoji_274.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県竜湖寺の算額 (現物)・Sangaku of Ryukoji Temple, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1861_Chiba_Shikanoyama_275.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県鹿野山神野寺の算額 (現物)・Sangaku of Shikanoyama Jinya Temple, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1862_Chiba_Azuma_276.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県吾妻神社の算額 (現物)・Sangaku of Azuma Shrine, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1868_Chiba_Omiya_277.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県大宮神社の算額 (現物)・Sangaku of Omiya Shrine, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1869_Chiba_Naritasan_278.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県大本山成田山新勝寺の算額 (現物)・Sangaku of Naritasan Shinshoji Temple, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1869_Chiba_Naritasan_279.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県\t大本山成田山新勝寺の算額 (現物)・Sangaku of Naritasan Shinshoji Temple, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1871_Chiba_Yakumo_280.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県八雲神社の算額 (現物)・Sangaku of Yakumo Shrine, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1871_Chiba_Rokusho_281.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県\t六所大明神の算額 (現物)・Sangaku of Rokusho Daimyojin Shrine, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1872_Chiba_Mokushi_282.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県杢師八幡神社の算額 (現物)・Sangaku of Mokushi Hachiman Shrine, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1874_Chiba_Suwa_283.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県諏訪神社の算額 (現物)・Sangaku of Suwa Shrine, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1874_Chiba_Katori_284.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県香取神社の算額 (現物)・Sangaku of Katori Shrine, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1875_Chiba_Inari_285.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県稲荷神社の算額 (現物)・Sangaku of Inari Shrine, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1877_Chiba_Azuma_287.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県吾妻神社の算額 (現物)・Sangaku of Azuma Shrine, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1877_Chiba_Ichinomiya_288.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県一之宮神社の算額 (現物)・Sangaku of Ichinomiya Shrine, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1878_Chiba_Shikanoyama_289.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県鹿野山神野寺の算額 (現物)・Sangaku of Shikanoyama Jinya Temple, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1881_Chiba_Myokoji_290.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県妙廣寺の算額 ()・Sangaku of Myokoji Temple, Chiba Prefecture (Destroyed)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1881_Chiba_Jofukuji_291.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県常福寺の算額 (現物)・Sangaku of Jofukuji Temple, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1882_Chiba_Shikanoyama_292.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県鹿野山神野寺の算額 (現物)・Sangaku of Shikanoyama Jinya Temple, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1882_Chiba_Yakumo_293.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県八雲神社の算額 (現物)・Sangaku of Yakumo Shrine, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1883_Chiba_Ichinomiya_294.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県一之宮神社の算額 (現物)・Sangaku of Ichinomiya Shrine, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1886_Chiba_Rakumanji_295.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県楽満寺の算額 (現物)・Sangaku of Rakumanji Temple, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1887_Chiba_Shikanoyama_296.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県鹿野山神野寺の算額 (現物)・Sangaku of Shikanoyama Jinya Temple, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1897_Chiba_Naritasan_297.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県大本山成田山新勝寺の算額 (現物)・Sangaku of Naritasan Shinshoji Temple, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1937_Chiba_Kosan_298.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県皇産霊神社の算額 (現物)・Sangaku of Kosan Shrine, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/Bunsei Era_Chiba_Kiyomizu_299.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県清水寺の算額 (現物)・Sangaku of Kiyomizu Temple, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/Unknown_Chiba_Matsuyama_300.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県松山神社の算額 (現物)・Sangaku of Matsuyama Shrine, Chiba Prefecture (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/Unknown_Chiba_Eifukuji_301.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県栄福寺の算額 (現物)・Sangaku of Eifukuji Temple, Chiba Prefecture (Original)"
+                ]
+            }
         }
     ],
     "seeAlso": [
