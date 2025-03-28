@@ -21,15 +21,6 @@
                     "神奈川真福寺の算額 (現物)・Sangaku of Shinpukuji Temple, Kanagawa (Original)"
                 ]
             }
-        },
-        {
-            "id": "https://sangaku-archive.org/app/api/sangaku_manifests/3/173.json",
-            "type": "Manifest",
-            "label": {
-                "en": [
-                    "API TEST"
-                ]
-            }
         }
     ],
     "seeAlso": [
