@@ -14,15 +14,6 @@
     },
     "items": [
         {
-            "id": "https://tonothan.github.io/{{manifest_id}}.json",
-            "type": "Manifest",
-            "label": {
-                "en": [
-                    "{{label_jp}}・{{label_en}}"
-                ]
-            }
-        },
-        {
             "id": "https://tonothan.github.io/1796_Tokyo_Hirakawa.json",
             "type": "Manifest",
             "label": {
