@@ -1,0 +1,228 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tonothan.github.io/1867_Gunma_Kuragano_416.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "\u7fa4\u99ac\u770c\u5009\u8cc0\u91ce\u795e\u793e\u306e\u7b97\u984d (\u73fe\u7269)\u30fbSangaku of Kuragano Shrine, Gunma (Original)"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "none": [
+                "\u8457\u4f5c\u6a29\u8868\u793a\u30fbImage Rights"
+            ]
+        },
+        "value": {
+            "none": [
+                "\u7248\u6a29\u6240\u6709\u30fbAll Rights Reserved"
+            ]
+        }
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "\u5949\u7d0d\u6240\u30fb Dedication site"
+                ]
+            },
+            "value": {
+                "none": [
+                    "\u5009\u8cc0\u91ce\u795e\u793e \u30fb Kuragano Shrine"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "\u770c\u30fb Prefecture"
+                ]
+            },
+            "value": {
+                "none": [
+                    "\u7fa4\u99ac\u770c\u30fb Gunma"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "\u4f4f\u6240\u30fb Address"
+                ]
+            },
+            "value": {
+                "none": [
+                    "\u9ad8\u5d0e\u5e02\u5009\u8cc0\u91ce\u753a1263\u30fb 1263 Kuraganocho, Takasaki City"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "\u5e74\u30fb Year"
+                ]
+            },
+            "value": {
+                "none": [
+                    "\u6176\u5fdc3\u5e74\u30fb 1867"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "\u5949\u7d0d\u8005\u30fb Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "\u9234\u6728\u53f3\u885b\u9580\u52dd\u68ee\u3068\u9580\u4eba\u30fb Suzuki Uemon Katsumori and his students"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "\u6d41\u30fb School"
+                ]
+            },
+            "value": {
+                "none": [
+                    "\u30fb "
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "\u6ce8\u30fb Notes"
+                ]
+            },
+            "value": {
+                "none": [
+                    "\u5e02\u6307\u5b9a\u6587\u5316\u8ca1\u30fb "
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "\u7a2e\u985e\u30fb Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "\u73fe\u7269\u30fb Original"
+                ]
+            }
+        }
+    ],
+    "navDate": "year_en",
+    "navPlace": {
+        "id": "https://tonothan.github.io/1867_Gunma_Kuragano_416.json",
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "id": "https://tonothan.github.io/1867_Gunma_Kuragano_416.json",
+                "type": "Feature",
+                "properties": {
+                    "label": {
+                        "none": [
+                            "Label in Japanese\u30fbLabel in English"
+                        ]
+                    }
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        139.0431476,
+                        36.2961782
+                    ]
+                }
+            }
+        ]
+    },
+    "items": [
+        {
+            "id": "https://tonothan.github.io/1867_Gunma_Kuragano_416.json/canvas/01",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "\u30fb"
+                ]
+            },
+            "items": [
+                {
+                    "type": "AnnotationPage",
+                    "id": "https://tonothan.github.io/1867_Gunma_Kuragano_416.json/canvas/01/annotationPage",
+                    "items": [
+                        {
+                            "id": "https://tonothan.github.io/1867_Gunma_Kuragano_416.json/canvas/01/annotationPage/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://sangaku-archive.org/iiif/3/1867_Gunma_Kuragano_416.ptiff/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 6778,
+                                "height": 3517,
+                                "service": [
+                                    {
+                                        "id": "https://sangaku-archive.org/iiif/3/1867_Gunma_Kuragano_416.ptiff",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://tonothan.github.io/1867_Gunma_Kuragano_416.json/canvas/01"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://sangaku-archive.org/iiif/3/1867_Gunma_Kuragano_416.ptiff/full/!200,200/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 200,
+                    "height": 150,
+                    "viewingDirection": "right-to-left",
+                    "behavior": [
+                        "individuals"
+                    ],
+                    "service": [
+                        {
+                            "id": "https://sangaku-archive.org/iiif/3/1867_Gunma_Kuragano_416.ptiff",
+                            "type": "ImageService3",
+                            "profile": "level1"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://tonothan.github.io/1867_Gunma_Kuragano_416.json/annotation/text/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tonothan.github.io/1867_Gunma_Kuragano_416.jsonL/annotation/text/1/1",
+                            "type": "Annotation",
+                            "motivation": "supplementing",
+                            "body": {
+                                "items": [
+                                    {
+                                        "type": "TextualBody",
+                                        "value": "\u66f8\u5199\u30fbTRANSCRIPTION",
+                                        "language": "none",
+                                        "format": "text/plain"
+                                    }
+                                ]
+                            },
+                            "target": "https://tonothan.github.io/1867_Gunma_Kuragano_416.json/canvas/01"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
