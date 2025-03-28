@@ -1,10 +1,10 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://tonothan.github.io/1803_Yamagata_Nagai.json",
+    "id": "https://tonothan.github.io/1862_Yamagata_Tsuruoka.json",
     "type": "Manifest",
     "label": {
         "none": [
-            "\u5c71\u5f62\u770c\u9577\u4e95\u6587\u73e0\u5802\u306e\u7b97\u984d (\u5fa9\u5143)\u30fbSangaku of Nagai Monju-do, Yamagata (Replica)"
+            "\u5c71\u5f62\u770c\u9db4\u5ca1\u795e\u660e\u5bae\u306e\u7b97\u984d (\u73fe\u7269)\u30fbSangaku of Tsuruoka Shinmei-gu, Yamagata (Original)"
         ]
     },
     "requiredStatement": {
@@ -28,7 +28,7 @@
             },
             "value": {
                 "none": [
-                    "\u9577\u4e95\u6587\u73e0\u5802 \u30fb Nagai Monju-do"
+                    "\u9db4\u5ca1\u795e\u660e\u5bae \u30fb Tsuruoka Shinmei-gu"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "none": [
-                    "\u5c71\u5f62\u770c\u9577\u4e95\u5e02\u5bae\uff08\u4e0d\u8a73\uff09\u30fb Miya, Nagai City, Yamagata Prefecture (unknown)"
+                    "\u5c71\u5f62\u770c\u9db4\u5ca1\u5e02\u8328\u65b0\u7530\uff08\u4e0d\u8a73\uff09\u30fb Ibarashinden, Tsuruoka City, Yamagata Prefecture (unspecified)"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "none": [
-                    "\u4eab\u548c3\u5e746\u6708\u30fb 1803"
+                    "\u6587\u4e452\u5e746\u6708\u30fb 1862"
                 ]
             }
         },
@@ -76,7 +76,7 @@
             },
             "value": {
                 "none": [
-                    "\u5c0f\u6797\u4e94\u5175\u885b\u30fb Kobayashi Gohei"
+                    "\u4f50\u85e4\u4e45\u7c73\u5409\u30fb Sato Kumekichi"
                 ]
             }
         },
@@ -88,7 +88,7 @@
             },
             "value": {
                 "none": [
-                    "\u95a2\u6d41\u30fb Seki School"
+                    "\u30fb "
                 ]
             }
         },
@@ -100,7 +100,7 @@
             },
             "value": {
                 "none": [
-                    "\u30fb "
+                    "\u5e02\u6307\u5b9a\u6587\u5316\u8ca1\u30fb City Designated Cultural Property"
                 ]
             }
         },
@@ -112,18 +112,18 @@
             },
             "value": {
                 "none": [
-                    "\u5fa9\u5143\u30fb Replica"
+                    "\u73fe\u7269\u30fb Original"
                 ]
             }
         }
     ],
     "navDate": "year_en",
     "navPlace": {
-        "id": "https://tonothan.github.io/1803_Yamagata_Nagai.json",
+        "id": "https://tonothan.github.io/1862_Yamagata_Tsuruoka.json",
         "type": "FeatureCollection",
         "features": [
             {
-                "id": "https://tonothan.github.io/1803_Yamagata_Nagai.json",
+                "id": "https://tonothan.github.io/1862_Yamagata_Tsuruoka.json",
                 "type": "Feature",
                 "properties": {
                     "label": {
@@ -135,8 +135,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        140.0218598,
-                        38.1119089
+                        139.8016148,
+                        38.8062212
                     ]
                 }
             }
@@ -144,7 +144,7 @@
     },
     "items": [
         {
-            "id": "https://tonothan.github.io/1803_Yamagata_Nagai.json/canvas/01",
+            "id": "https://tonothan.github.io/1862_Yamagata_Tsuruoka.json/canvas/01",
             "type": "Canvas",
             "label": {
                 "none": [
@@ -154,10 +154,10 @@
             "items": [
                 {
                     "type": "AnnotationPage",
-                    "id": "https://tonothan.github.io/1803_Yamagata_Nagai.json/canvas/01/annotationPage",
+                    "id": "https://tonothan.github.io/1862_Yamagata_Tsuruoka.json/canvas/01/annotationPage",
                     "items": [
                         {
-                            "id": "https://tonothan.github.io/1803_Yamagata_Nagai.json/canvas/01/annotationPage/annotation",
+                            "id": "https://tonothan.github.io/1862_Yamagata_Tsuruoka.json/canvas/01/annotationPage/annotation",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -174,7 +174,7 @@
                                     }
                                 ]
                             },
-                            "target": "https://tonothan.github.io/1803_Yamagata_Nagai.json/canvas/01"
+                            "target": "https://tonothan.github.io/1862_Yamagata_Tsuruoka.json/canvas/01"
                         }
                     ]
                 }
@@ -201,11 +201,11 @@
             ],
             "annotations": [
                 {
-                    "id": "https://tonothan.github.io/1803_Yamagata_Nagai.json/annotation/text/1",
+                    "id": "https://tonothan.github.io/1862_Yamagata_Tsuruoka.json/annotation/text/1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://tonothan.github.io/1803_Yamagata_Nagai.jsonL/annotation/text/1/1",
+                            "id": "https://tonothan.github.io/1862_Yamagata_Tsuruoka.jsonL/annotation/text/1/1",
                             "type": "Annotation",
                             "motivation": "supplementing",
                             "body": {
@@ -218,7 +218,7 @@
                                     }
                                 ]
                             },
-                            "target": "https://tonothan.github.io/1803_Yamagata_Nagai.json/canvas/01"
+                            "target": "https://tonothan.github.io/1862_Yamagata_Tsuruoka.json/canvas/01"
                         }
                     ]
                 }

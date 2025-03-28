@@ -1,10 +1,10 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://tonothan.github.io/1803_Yamagata_Nagai.json",
+    "id": "https://tonothan.github.io/1818_Yamagata_Sochinju.json",
     "type": "Manifest",
     "label": {
         "none": [
-            "\u5c71\u5f62\u770c\u9577\u4e95\u6587\u73e0\u5802\u306e\u7b97\u984d (\u5fa9\u5143)\u30fbSangaku of Nagai Monju-do, Yamagata (Replica)"
+            "\u5c71\u5f62\u770c\u7dcf\u93ae\u5b88\u5929\u6e80\u5bae\u306e\u7b97\u984d (\u5fa9\u5143)\u30fbSangaku of Sochinju Tenmangu Shrine, Yamagata (Replica)"
         ]
     },
     "requiredStatement": {
@@ -28,7 +28,7 @@
             },
             "value": {
                 "none": [
-                    "\u9577\u4e95\u6587\u73e0\u5802 \u30fb Nagai Monju-do"
+                    "\u7dcf\u93ae\u5b88\u5929\u6e80\u5bae \u30fb Sochinju Tenmangu Shrine"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "none": [
-                    "\u5c71\u5f62\u770c\u9577\u4e95\u5e02\u5bae\uff08\u4e0d\u8a73\uff09\u30fb Miya, Nagai City, Yamagata Prefecture (unknown)"
+                    "\u5c71\u5f62\u770c\u30fb Yamagata prefecture (Tohoku area)"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "none": [
-                    "\u4eab\u548c3\u5e746\u6708\u30fb 1803"
+                    "\u6587\u653f\u5143\u5e748\u6708\u30fb 1818"
                 ]
             }
         },
@@ -76,7 +76,7 @@
             },
             "value": {
                 "none": [
-                    "\u5c0f\u6797\u4e94\u5175\u885b\u30fb Kobayashi Gohei"
+                    "\u677e\u6c38\u76f4\u82f1\u9580\u4eba\u30fb Matsunaga Naohide's disciple"
                 ]
             }
         },
@@ -88,7 +88,7 @@
             },
             "value": {
                 "none": [
-                    "\u95a2\u6d41\u30fb Seki School"
+                    "\u30fb "
                 ]
             }
         },
@@ -100,7 +100,7 @@
             },
             "value": {
                 "none": [
-                    "\u30fb "
+                    "\u4fdd\u7ba1\u6240\uff1a\u5c71\u5f62\u770c\u65b0\u5e84\u5e02\u5800\u7aef\u753a4-74 \u200e\u3000\u65b0\u5e84\u3075\u308b\u3055\u3068\u6b74\u53f2\u30bb\u30f3\u30bf\u30fc\u30fb Storage location: 4-74 Horibata-machi, Shinjo City, Yamagata Prefecture\u3000Shinjo Hometown History Center"
                 ]
             }
         },
@@ -119,11 +119,11 @@
     ],
     "navDate": "year_en",
     "navPlace": {
-        "id": "https://tonothan.github.io/1803_Yamagata_Nagai.json",
+        "id": "https://tonothan.github.io/1818_Yamagata_Sochinju.json",
         "type": "FeatureCollection",
         "features": [
             {
-                "id": "https://tonothan.github.io/1803_Yamagata_Nagai.json",
+                "id": "https://tonothan.github.io/1818_Yamagata_Sochinju.json",
                 "type": "Feature",
                 "properties": {
                     "label": {
@@ -135,8 +135,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        140.0218598,
-                        38.1119089
+                        140.1435198,
+                        38.5370564
                     ]
                 }
             }
@@ -144,7 +144,7 @@
     },
     "items": [
         {
-            "id": "https://tonothan.github.io/1803_Yamagata_Nagai.json/canvas/01",
+            "id": "https://tonothan.github.io/1818_Yamagata_Sochinju.json/canvas/01",
             "type": "Canvas",
             "label": {
                 "none": [
@@ -154,10 +154,10 @@
             "items": [
                 {
                     "type": "AnnotationPage",
-                    "id": "https://tonothan.github.io/1803_Yamagata_Nagai.json/canvas/01/annotationPage",
+                    "id": "https://tonothan.github.io/1818_Yamagata_Sochinju.json/canvas/01/annotationPage",
                     "items": [
                         {
-                            "id": "https://tonothan.github.io/1803_Yamagata_Nagai.json/canvas/01/annotationPage/annotation",
+                            "id": "https://tonothan.github.io/1818_Yamagata_Sochinju.json/canvas/01/annotationPage/annotation",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -174,7 +174,7 @@
                                     }
                                 ]
                             },
-                            "target": "https://tonothan.github.io/1803_Yamagata_Nagai.json/canvas/01"
+                            "target": "https://tonothan.github.io/1818_Yamagata_Sochinju.json/canvas/01"
                         }
                     ]
                 }
@@ -201,11 +201,11 @@
             ],
             "annotations": [
                 {
-                    "id": "https://tonothan.github.io/1803_Yamagata_Nagai.json/annotation/text/1",
+                    "id": "https://tonothan.github.io/1818_Yamagata_Sochinju.json/annotation/text/1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://tonothan.github.io/1803_Yamagata_Nagai.jsonL/annotation/text/1/1",
+                            "id": "https://tonothan.github.io/1818_Yamagata_Sochinju.jsonL/annotation/text/1/1",
                             "type": "Annotation",
                             "motivation": "supplementing",
                             "body": {
@@ -218,7 +218,7 @@
                                     }
                                 ]
                             },
-                            "target": "https://tonothan.github.io/1803_Yamagata_Nagai.json/canvas/01"
+                            "target": "https://tonothan.github.io/1818_Yamagata_Sochinju.json/canvas/01"
                         }
                     ]
                 }

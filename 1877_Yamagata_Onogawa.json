@@ -1,10 +1,10 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://tonothan.github.io/1803_Yamagata_Nagai.json",
+    "id": "https://tonothan.github.io/1877_Yamagata_Onogawa.json",
     "type": "Manifest",
     "label": {
         "none": [
-            "\u5c71\u5f62\u770c\u9577\u4e95\u6587\u73e0\u5802\u306e\u7b97\u984d (\u5fa9\u5143)\u30fbSangaku of Nagai Monju-do, Yamagata (Replica)"
+            "\u5c71\u5f62\u770c\u5c0f\u91ce\u5ddd\u85ac\u5e2b\u5802\u306e\u7b97\u984d (\u5fa9\u5143)\u30fbSangaku of Onogawa Yakushido, Yamagata (Replica)"
         ]
     },
     "requiredStatement": {
@@ -28,7 +28,7 @@
             },
             "value": {
                 "none": [
-                    "\u9577\u4e95\u6587\u73e0\u5802 \u30fb Nagai Monju-do"
+                    "\u5c0f\u91ce\u5ddd\u85ac\u5e2b\u5802 \u30fb Onogawa Yakushido"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "none": [
-                    "\u5c71\u5f62\u770c\u9577\u4e95\u5e02\u5bae\uff08\u4e0d\u8a73\uff09\u30fb Miya, Nagai City, Yamagata Prefecture (unknown)"
+                    "\u5c71\u5f62\u770c\u7c73\u6ca2\u5e02\u5c0f\u91ce\u5ddd\u753a\u30fb Onogawa-cho, Yonezawa City, Yamagata Prefecture"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "none": [
-                    "\u4eab\u548c3\u5e746\u6708\u30fb 1803"
+                    "\u660e\u6cbb10\u5e744\u6708\u30fb 1877"
                 ]
             }
         },
@@ -76,7 +76,7 @@
             },
             "value": {
                 "none": [
-                    "\u5c0f\u6797\u4e94\u5175\u885b\u30fb Kobayashi Gohei"
+                    "\u5bae\u539f\u5468\u52a9\u9580\u4eba\u4f50\u85e4\u89d2\u6cbb\u30fb Miyahara Shusuke's disciple Sato Kakuji"
                 ]
             }
         },
@@ -88,7 +88,7 @@
             },
             "value": {
                 "none": [
-                    "\u95a2\u6d41\u30fb Seki School"
+                    "\u30fb "
                 ]
             }
         },
@@ -100,7 +100,7 @@
             },
             "value": {
                 "none": [
-                    "\u30fb "
+                    "\u4fdd\u7ba1\u6240\uff1a\u5c71\u5f62\u770c\u7c73\u6ca2\u5e02\u5c0f\u91ce\u5ddd\u753a2437-1\u3000\u65ed\u5c4b\u65c5\u9928\u30fb Storage location: Asahiya Ryokan, 2437-1 Onogawa-machi, Yonezawa City, Yamagata Prefecture"
                 ]
             }
         },
@@ -119,11 +119,11 @@
     ],
     "navDate": "year_en",
     "navPlace": {
-        "id": "https://tonothan.github.io/1803_Yamagata_Nagai.json",
+        "id": "https://tonothan.github.io/1877_Yamagata_Onogawa.json",
         "type": "FeatureCollection",
         "features": [
             {
-                "id": "https://tonothan.github.io/1803_Yamagata_Nagai.json",
+                "id": "https://tonothan.github.io/1877_Yamagata_Onogawa.json",
                 "type": "Feature",
                 "properties": {
                     "label": {
@@ -135,8 +135,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        140.0218598,
-                        38.1119089
+                        140.0603933,
+                        37.8655374
                     ]
                 }
             }
@@ -144,7 +144,7 @@
     },
     "items": [
         {
-            "id": "https://tonothan.github.io/1803_Yamagata_Nagai.json/canvas/01",
+            "id": "https://tonothan.github.io/1877_Yamagata_Onogawa.json/canvas/01",
             "type": "Canvas",
             "label": {
                 "none": [
@@ -154,10 +154,10 @@
             "items": [
                 {
                     "type": "AnnotationPage",
-                    "id": "https://tonothan.github.io/1803_Yamagata_Nagai.json/canvas/01/annotationPage",
+                    "id": "https://tonothan.github.io/1877_Yamagata_Onogawa.json/canvas/01/annotationPage",
                     "items": [
                         {
-                            "id": "https://tonothan.github.io/1803_Yamagata_Nagai.json/canvas/01/annotationPage/annotation",
+                            "id": "https://tonothan.github.io/1877_Yamagata_Onogawa.json/canvas/01/annotationPage/annotation",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -174,7 +174,7 @@
                                     }
                                 ]
                             },
-                            "target": "https://tonothan.github.io/1803_Yamagata_Nagai.json/canvas/01"
+                            "target": "https://tonothan.github.io/1877_Yamagata_Onogawa.json/canvas/01"
                         }
                     ]
                 }
@@ -201,11 +201,11 @@
             ],
             "annotations": [
                 {
-                    "id": "https://tonothan.github.io/1803_Yamagata_Nagai.json/annotation/text/1",
+                    "id": "https://tonothan.github.io/1877_Yamagata_Onogawa.json/annotation/text/1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://tonothan.github.io/1803_Yamagata_Nagai.jsonL/annotation/text/1/1",
+                            "id": "https://tonothan.github.io/1877_Yamagata_Onogawa.jsonL/annotation/text/1/1",
                             "type": "Annotation",
                             "motivation": "supplementing",
                             "body": {
@@ -218,7 +218,7 @@
                                     }
                                 ]
                             },
-                            "target": "https://tonothan.github.io/1803_Yamagata_Nagai.json/canvas/01"
+                            "target": "https://tonothan.github.io/1877_Yamagata_Onogawa.json/canvas/01"
                         }
                     ]
                 }
