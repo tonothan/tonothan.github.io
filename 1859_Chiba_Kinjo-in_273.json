@@ -161,14 +161,14 @@
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://sangaku-archive.org/iiif/3/1859_Chiba_Kinjo-in_273.ptiff/full/max/0/default.jpg",
+                                "id": "https://sangaku-archive.org/iiif/3/1779_Chiba_Kinjo-in_260/full/max/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "width": 6778,
                                 "height": 3517,
                                 "service": [
                                     {
-                                        "id": "https://sangaku-archive.org/iiif/3/1859_Chiba_Kinjo-in_273.ptiff",
+                                        "id": "https://sangaku-archive.org/iiif/3/1779_Chiba_Kinjo-in_260.ptiff",
                                         "type": "ImageService3",
                                         "profile": "level1"
                                     }
@@ -181,7 +181,7 @@
             ],
             "thumbnail": [
                 {
-                    "id": "https://sangaku-archive.org/iiif/3/1859_Chiba_Kinjo-in_273.ptiff/full/!200,200/0/default.jpg",
+                    "id": "https://sangaku-archive.org/iiif/3/1779_Chiba_Kinjo-in_260.ptiff/full/!200,200/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "width": 200,
@@ -192,7 +192,7 @@
                     ],
                     "service": [
                         {
-                            "id": "https://sangaku-archive.org/iiif/3/1859_Chiba_Kinjo-in_273.ptiff",
+                            "id": "https://sangaku-archive.org/iiif/3/1779_Chiba_Kinjo-in_260.ptiff",
                             "type": "ImageService3",
                             "profile": "level1"
                         }
