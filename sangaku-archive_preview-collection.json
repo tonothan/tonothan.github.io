@@ -471,6 +471,987 @@
                     "千葉県栄福寺の算額 (現物)・Sangaku of Eifukuji Temple, Chiba Prefecture (Original)"
                 ]
             }
+        },
+        {
+            "id": "https://tonothan.github.io/1776_Shizuoka_Senkoji_705.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "静岡県宣光寺の算額 (現物)・Sangaku of Senkoji Temple, Shizuoka (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1779_Shizuoka_Ioji_706.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "静岡県医王寺の算額 (現物)・Sangaku of Ioji Temple, Shizuoka (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1838_Shizuoka_Shizuoka_707.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "静岡県静岡浅間神社の算額 (現物)・Sangaku of Shizuoka Sengen Shrine, Shizuoka (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1856_Shizuoka_Ioji_708.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "静岡県医王寺の算額 (現物)・Sangaku of Ioji Temple, Shizuoka (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1866_Shizuoka_Hachiman_709.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "静岡県八幡諏訪神社の算額 (現物)・Sangaku of Hachiman Suwa Shrine, Shizuoka (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1869_Shizuoka_Shizuoka_710.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "静岡県静岡浅間神社の算額 (現物)・Sangaku of Shizuoka Sengen Shrine, Shizuoka (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1870_Shizuoka_Suwa_711.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "静岡県諏訪神社の算額 (現物)・Sangaku of Suwa Shrine, Shizuoka (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1895_Shizuoka_Kannon_712.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "静岡県観音堂の算額 (復元)・Sangaku of Kannon Hall, Shizuoka (Replica)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1896_Shizuoka_Kamata_713.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "静岡県鎌田神明宮の算額 (現物)・Sangaku of Kamata Shinmeigu Shrine, Shizuoka (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1896_Shizuoka_Joeiji_714.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "静岡県貞永寺の算額 (複製)・Sangaku of Joeiji Temple, Shizuoka (Replica)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1896_Shizuoka_Joeiji_715.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "静岡県貞永寺の算額 (現物)・Sangaku of Joeiji Temple, Shizuoka (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/Unknown_Shizuoka_Shizuoka_716.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "静岡県静岡浅間神社の算額 (現物)・Sangaku of Shizuoka Sengen Shrine, Shizuoka (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1796_Tokyo_Hirakawa.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "東京都平川天満宮の算額 (続神壁算法)・Sangaku of Hirakawa Temman Shrine, Tokyo (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1804_Tokyo_Hirakawa.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "東京都平川天満宮の算額 (続神壁算法)・Sangaku of Hirakawa Temman Shrine, Tokyo (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1797_Gumma_Hakun.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "群馬県白雲山の算額 (続神壁算法)・Sangaku of Hakun Mountain, Gumma (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1798_Kumamoto_Hitoyoshi.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "熊本県人吉青井社の算額 (続神壁算法)・Sangaku of Hitoyoshi Aoi Shrine, Kumamoto (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1799_Kamaguchi_Hachiman.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山口県八幡別宮の算額 (続神壁算法)・Sangaku of Hachiman Shrine, Kamaguchi (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1800_Hyogo_Sumiyoshi.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "兵庫県住吉大明神社の算額 (続神壁算法)・Sangaku of Sumiyoshi Daimyojin Shrine, Hyogo (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1801_Gumma_Kumano.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "群馬県熊野神社の算額 (続神壁算法)・Sangaku of Kumano Shrine, Gumma (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1801_Kanagawa_Matsubara.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "神奈川県松原社の算額 (続神壁算法)・Sangaku of Matsubara Shrine, Kanagawa (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1802_Tokyo_Sekimae.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "東京都関前八幡神社の算額 (続神壁算法)・Sangaku of Sekimae Hachiman Shrine, Tokyo (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1802_Tokyo_Mita.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "東京都三田春日社の算額 (続神壁算法)・Sangaku of Mita Kasuga Shrine, Tokyo (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1802_Tokyo_Shimmei.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "東京都神明社の算額 (続神壁算法)・Sangaku of Shimmei Shrine, Tokyo (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1803_Yamagata_Nagai.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県長井文殊堂の算額 (続神壁算法)・Sangaku of Nagai Monju Hall, Yamagata (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1804_Tottori_Hijiri.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "鳥取県聖神社の算額 (続神壁算法)・Sangaku of Hijiri Shrine, Tottori (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1804_Tokyo_Shimpuku.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "東京都真福寺薬師堂の算額 (続神壁算法)・Sangaku of Shimpuku Temple Yakushi Hall, Tokyo (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1804_Okayama_Nakayama.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "岡山県中山神社の算額 (続神壁算法)・Sangaku of Nakayama Shrine, Okayama (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1804_Miyazaki_Udo.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "宮崎県鵜戸山の算額 (続神壁算法)・Sangaku of Udo Mountain, Miyazaki (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1804_Miyazaki_Enokihara.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "宮崎県榎原山の算額 (続神壁算法)・Sangaku of Enokihara Mountain, Miyazaki (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1804_Iwate_Morioka.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "岩手県盛岡八幡宮の算額 (続神壁算法)・Sangaku of Morioka Hachiman Shrine, Iwate (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1805_Tokyo_Atago.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "東京都愛宕山の算額 (続神壁算法)・Sangaku of Atago Mountain, Tokyo (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1805_Kyoto_Yasui.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "京都府安井聖天堂の算額 (続神壁算法)・Sangaku of Yasui Shoten Hall, Kyoto (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1805_Hyogo_Kakimoto.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "兵庫県柿本大明神の算額 (続神壁算法)・Sangaku of Kakimoto Daimyojin Shrine, Hyogo (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1806_Kagawa_Iwasewo.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "香川県岩清尾八幡宮の算額 (続神壁算法)・Sangaku of Iwasewo Hachiman Shrine, Kagawa (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1806_Fukuoka_Dazaifu.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "福岡県太宰府天満宮の算額 (続神壁算法)・Sangaku of Dazaifu Temman Shrine, Fukuoka (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1806_Gumma_Nawa.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "群馬県那波神明宮の算額 (続神壁算法)・Sangaku of Nawa Shimmei Shrine, Gumma (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1806_Yamanashi_Miwa.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山梨県三輪明神社の算額 (続神壁算法)・Sangaku of Miwa Myojin Shrine, Yamanashi (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1806_Hokkaido_Nikahhu.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "北海道ニーカッフ義経社の算額 (続神壁算法)・Sangaku of Nikahhu Yoshitsune Shrine, Hokkaido (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1796_Tokyo_Hirakawa.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "東京都平川天満宮の算額 (続神壁算法)・Sangaku of Hirakawa Temman Shrine, Tokyo (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1805_Tokyo_Hirakawa.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "東京都平川天満宮の算額 (続神壁算法)・Sangaku of Hirakawa Temman Shrine, Tokyo (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1797_Shiga_Chikuma.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "滋賀県筑摩明神社の算額 (続神壁算法)・Sangaku of Chikuma Myojin Shrine, Shiga (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1799_Tokyo_Soshido.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "東京都祖師堂の算額 (続神壁算法)・Sangaku of Soshido Hall, Tokyo (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1799_Tokyo_Ushi.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "東京都牛天神社の算額 (続神壁算法)・Sangaku of Ushi Tenjin Shrine, Tokyo (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1799_Niigata_Jizo.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "新潟県地蔵堂の算額 (続神壁算法)・Sangaku of Jizo Hall, Niigata (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1799_Tokyo_Zojo.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "東京都増上寺境内の算額 (続神壁算法)・Sangaku of Zojo Temple, Tokyo (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1800_Niigata_Itoigawa.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "新潟県糸魚川天津社の算額 (続神壁算法)・Sangaku of Itoigawa Amatsu Shrine, Niigata (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1800_Niigata_Sanjubanshin.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "新潟県三十番神の算額 (続神壁算法)・Sangaku of Sanjubanshin Hall, Niigata (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1800_Yamagata_Sanno.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県山王日枝神社の算額 (続神壁算法)・Sangaku of Sanno Hie Shrine, Yamagata (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1800_Tokyo_Meguro.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "東京都目黒不動の算額 (続神壁算法)・Sangaku of Meguro Fudo Temple, Tokyo (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1800_Tokyo_Migo.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "東京都三囲稲荷社の算額 (続神壁算法)・Sangaku of Migo Inari Shrine, Tokyo (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1800_Shizuoka_Mishima.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "静岡県三島大明神社の算額 (続神壁算法)・Sangaku of Mishima Daimyojin Shrine, Shizuoka (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1800_Tokyo_Shimmei.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "東京都神明社の算額 (続神壁算法)・Sangaku of Shimmei Shrine, Tokyo (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1803_Tokyo_Shimmei.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "東京都神明社の算額 (続神壁算法)・Sangaku of Shimmei Shrine, Tokyo (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1801_Wakayama_Kuroe.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "和歌山県黒江中言明神の算額 (続神壁算法)・Sangaku of Kuroe Nakagoto Myojin Shrine, Wakayama (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1801_Chiba_Narita.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "千葉県成田不動の算額 (続神壁算法)・Sangaku of Narita Fudo Temple, Chiba (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1801_Ishikawa_Utatsu.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "石川県卯辰観音院の算額 (続神壁算法)・Sangaku of Utatsu Kannon Temple, Ishikawa (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1803_Gumma_Shimizu.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "群馬県清水観世音堂の算額 (続神壁算法)・Sangaku of Shimizu Kanzeon Hall, Gumma (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1804_Okayama_Kibitsu.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "岡山県吉備津宮の算額 (続神壁算法)・Sangaku of Kibitsu Shrine, Okayama (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1804_Tokyo_Atago.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "東京都愛宕本地堂の算額 (続神壁算法)・Sangaku of Atago Honji Hall, Tokyo (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1804_Nagano_Zenko.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "長野県善光寺の算額 (続神壁算法)・Sangaku of Zenko Temple, Nagano (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1804_Tokyo_Zojo.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "東京都増上寺境内の算額 (続神壁算法)・Sangaku of Zojo Temple, Tokyo (Zoku Shinpeki Sanpou)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1695_Yamagata_Onga.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県遠賀神社の算額 (現物)・Sangaku of Onga Shrine, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1695_Yamagata_Onga.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県遠賀神社の算額 (複製)・Sangaku of Onga Shrine, Yamagata (Restored)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1779_Yamagata_Enpuku.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県円福寺の算額 (復元)・Sangaku of Enpuku Temple, Yamagata (Replica)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1784_Yamagata_Shiba.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県芝愛宕神社の算額 (復元)・Sangaku of Shiba Atago Shrine, Yamagata (Replica)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1803_Yamagata_Nagai.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県長井文珠堂の算額 (復元)・Sangaku of Nagai Monju-do, Yamagata (Replica)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1806_Yamagata_Nichigatsu.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県日月神社の算額 (現物)・Sangaku of Nichigatsu Shrine, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1817_Yamagata_Miyazaki.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県宮崎若宮八幡神社の算額 (現物)・Sangaku of Miyazaki Wakamiya Hachiman Shrine, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1818_Yamagata_Sochinju.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県総鎮守天満宮の算額 (復元)・Sangaku of Sochinju Tenmangu Shrine, Yamagata (Replica)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1818_Yamagata_Sochinju.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県総鎮守天満宮の算額 (復元)・Sangaku of Sochinju Tenmangu Shrine, Yamagata (Replica)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1818_Yamagata_Sugio.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県椙尾神社の算額 (現物)・Sangaku of Sugio Shrine, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1823_Yamagata_Dewa.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県出羽三山神社の算額 (現物)・Sangaku of Dewa Sanzan Shrine, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1825_Yamagata_Enpuku.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県円福寺の算額 (現物)・Sangaku of Enpuku Temple, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1830_Yamagata_Chokai.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県鳥海月山両所宮の算額 (現物)・Sangaku of Chokai Gassan Ryosho-gu, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1839_Yamagata_Izu.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県伊豆神社の算額 (現物)・Sangaku of Izu Shrine, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1842_Yamagata_Wakamatsu.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県若松寺の算額 (現物)・Sangaku of Wakamatsu Temple, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1844_Yamagata_Izu.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県伊豆神社の算額 (現物)・Sangaku of Izu Shrine, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1846_Yamagata_Kasuga.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県春日神社の算額 (現物)・Sangaku of Kasuga Shrine, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1852_Yamagata_Ishiko.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県石子神社の算額 (現物)・Sangaku of Ishiko Shrine, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1853_Yamagata_Hachiman.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県八幡神社の算額 (現物)・Sangaku of Hachiman Shrine, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1855_Yamagata_Ukishima.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県浮島神社の算額 (現物)・Sangaku of Ukishima Shrine, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1861_Yamagata_Sanno.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県山王日枝神社の算額 (現物)・Sangaku of Sanno Hie Shrine, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1862_Yamagata_Tsuruoka.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県鶴岡神明宮の算額 (現物)・Sangaku of Tsuruoka Shinmei-gu, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1864_Yamagata_Wakamatsu.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県若松寺の算額 (現物)・Sangaku of Wakamatsu Temple, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1866_Yamagata_Utakake.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県歌懸稲荷神社の算額 (紛失?)・Sangaku of Utakake Inari Shrine, Yamagata (Lost?)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1866_Yamagata_Narushima.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県成島八幡神社の算額 (現物)・Sangaku of Narushima Hachiman Shrine, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1867_Yamagata_Hachiman.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県八幡神社の算額 (現物)・Sangaku of Hachiman Shrine, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1869_Yamagata_Tenman.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県天満神社の算額 (現物)・Sangaku of Tenman Shrine, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1869_Yamagata_Kumano.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県熊野神社の算額 (現物)・Sangaku of Kumano Shrine, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1877_Yamagata_Onogawa.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県小野川薬師堂の算額 (復元)・Sangaku of Onogawa Yakushido, Yamagata (Replica)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1881_Yamagata_Tenman.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県天満神社の算額 (現物)・Sangaku of Tenman Shrine, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1882_Yamagata_Daisho.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県大聖寺の算額 (現物)・Sangaku of Daisho Temple, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1882_Yamagata_Mishima.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県三島神社の算額 (現物)・Sangaku of Mishima Shrine, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1885_Yamagata_Hachiman.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県八幡神社の算額 (現物)・Sangaku of Hachiman Shrine, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1889_Yamagata_Chokai.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県鳥海月山両所宮の算額 (現物)・Sangaku of Chokai Gassan Ryosho-gu, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1890_Yamagata_Mitake.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県御獄神社の算額 (現物)・Sangaku of Mitake Shrine, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1904_Yamagata_Kumano.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県熊野神社の算額 (現物)・Sangaku of Kumano Shrine, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1910_Yamagata_Hachiman.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県八幡神社の算額 (現物)・Sangaku of Hachiman Shrine, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1913_Yamagata_Hakushinji.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県柏山寺の算額 (現物)・Sangaku of Hakushinji Temple, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1914_Yamagata_Risshaku-ji.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県立石寺 根本中堂の算額 (現物)・Sangaku of Risshaku-ji Temple Konponchudo, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1915_Yamagata_Chogenji.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県長源寺の算額 (現物)・Sangaku of Chogenji Temple, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1916_Yamagata_Dainichi.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県大日如来の算額 (現物)・Sangaku of Dainichi Nyorai, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1916_Yamagata_Kisshoin.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県吉祥院の算額 (現物)・Sangaku of Kisshoin, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1917_Yamagata_Yudonosan.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県湯殿山神社の算額 (現物)・Sangaku of Yudonosan Shrine, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/Kaei_Yamagata_Daishoji.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県大聖寺（亀岡文殊堂）の算額 (復元)・Sangaku of Daishoji (Kameoka Monju-do), Yamagata (Replica)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/End of the Edo period_Yamagata_Sasano.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県笹野観音幸徳院の算額 (復元)・Sangaku of Sasano Kannon Kotokuin, Yamagata (Replica)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/1912_Yamagata_Wakamatsu.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県若松寺の算額 (現物)・Sangaku of Wakamatsu Temple, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/February 9, 2019_Yamagata_Satonomiya.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県里之宮湯殿山神社の算額 (現物)・Sangaku of Satonomiya Yudonosan Shrine, Yamagata (Original)"
+                ]
+            }
+        },
+        {
+            "id": "https://tonothan.github.io/Unknown_Yamagata_Hachiman.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "山形県八幡神社の算額 (現物)・Sangaku of Hachiman Shrine, Yamagata (Original)"
+                ]
+            }
         }
     ],
     "seeAlso": [
