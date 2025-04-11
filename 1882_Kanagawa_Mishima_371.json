@@ -198,30 +198,6 @@
                         }
                     ]
                 }
-            ],
-            "annotations": [
-                {
-                    "id": "https://tonothan.github.io/1882_Kanagawa_Mishima_371.json/annotation/text/1",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://tonothan.github.io/1882_Kanagawa_Mishima_371.jsonL/annotation/text/1/1",
-                            "type": "Annotation",
-                            "motivation": "supplementing",
-                            "body": {
-                                "items": [
-                                    {
-                                        "type": "TextualBody",
-                                        "value": "\u66f8\u5199\u30fbTRANSCRIPTION",
-                                        "language": "none",
-                                        "format": "text/plain"
-                                    }
-                                ]
-                            },
-                            "target": "https://tonothan.github.io/1882_Kanagawa_Mishima_371.json/canvas/01"
-                        }
-                    ]
-                }
             ]
         }
     ]
