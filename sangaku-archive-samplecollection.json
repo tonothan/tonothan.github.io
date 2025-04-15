@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://example.org/iiif/collection/sangaku-archive",
+    "id": "https://tonothan.github.io/sangaku-archive-samplecollection.json",
     "type": "Collection",
     "label": {
       "en": ["Sample IIIF Collection"]
