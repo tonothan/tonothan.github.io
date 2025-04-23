@@ -1,0 +1,38 @@
+@context: "http://iiif.io/api/presentation/3/context.json",
+id: "https://sangaku-archive.org/app/api/collections/2.json",
+type: "Collection",
+label: {
+en: [
+"Tohoku"
+],
+ja: [
+"東北"
+]
+},
+summary: {
+en: [
+"A collection of 4 sangaku images in Tohoku region."
+],
+ja: [
+"東北の4点の算額コレクション"
+]
+},
+items: [
+{
+id: "https://sangaku-archive.org/app/api/sangaku_manifests/3/1782_Fukushima_Sakai_5.json",
+type: "Manifest"
+},
+{
+id: "https://sangaku-archive.org/app/api/sangaku_manifests/3/1803_Yamagata_Nagai_82.json",
+type: "Manifest"
+},
+{
+id: "https://sangaku-archive.org/app/api/sangaku_manifests/3/1804_Iwate_Morioka_88.json",
+type: "Manifest"
+},
+{
+id: "https://sangaku-archive.org/app/api/sangaku_manifests/3/1800_Yamagata_Sanno_106.json",
+type: "Manifest"
+}
+]
+}
