@@ -8,8 +8,7 @@
     "summary": {
       "en": ["Sangaku archive preview."]
     },
-    "items": items: 
-        [
+    "items": [
             {
                 id: "https://sangaku-archive.org/app/api/sangaku_manifests/3/1782_Fukushima_Sakai_5.json",
                 type: "Manifest"
