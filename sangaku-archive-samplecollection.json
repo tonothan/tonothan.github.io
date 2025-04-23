@@ -3,55 +3,30 @@
     "id": "https://tonothan.github.io/sangaku-archive-samplecollection.json",
     "type": "Collection",
     "label": {
-      "en": ["Sample IIIF Collection"]
+      "en": ["Sample IIIF Collection Tohoku"]
     },
     "summary": {
       "en": ["Sangaku archive preview."]
     },
-    "items": [
-      {
-        "id": "https://tonothan.github.io/canopy_samplemanifest-1.json",
-        "type": "Manifest",
-        "label": {
-          "en": ["Sangaku Tablet 85"]
-        }
-      },
-      {
-        "id": "https://tonothan.github.io/canopy_samplemanifest-2.json",
-        "type": "Manifest",
-        "label": {
-          "en": ["Sangaku Tablet 1"]
-        }
-      },
-      {
-        "id": "https://tonothan.github.io/canopy_samplemanifest-3.json",
-        "type": "Manifest",
-        "label": {
-          "en": ["Sangaku Tablet 34"]
-        }
-      },
-      {
-        "id": "https://tonothan.github.io/canopy_samplemanifest-4.json",
-        "type": "Manifest",
-        "label": {
-          "en": ["Sangaku Tablet 39"]
-        }
-      },
-        {
-        "id": "https://tonothan.github.io/canopy_samplemanifest-Mishima.json",
-        "type": "Manifest",
-        "label": {
-          "en": ["Mishima Sample mix"]
-        }
-      },
-        {
-        "id": "https://tonothan.github.io/1882_Kanagawa_Mishima-manifest.json",
-        "type": "Manifest",
-        "label": {
-          "en": ["Original Mishima manifest"]
-        }
-      } 
-    ],
+    "items": items: 
+        [
+            {
+                id: "https://sangaku-archive.org/app/api/sangaku_manifests/3/1782_Fukushima_Sakai_5.json",
+                type: "Manifest"
+            },
+            {
+                id: "https://sangaku-archive.org/app/api/sangaku_manifests/3/1803_Yamagata_Nagai_82.json",
+                type: "Manifest"
+            },
+            {
+                id: "https://sangaku-archive.org/app/api/sangaku_manifests/3/1804_Iwate_Morioka_88.json",
+                type: "Manifest"
+            },
+            {
+                id: "https://sangaku-archive.org/app/api/sangaku_manifests/3/1800_Yamagata_Sanno_106.json",
+                type: "Manifest"
+            }
+        ],
     "seeAlso": [
       {
         "id": "https://example.org/api/sangaku-metadata",
