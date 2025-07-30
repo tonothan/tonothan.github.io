@@ -1,1 +1,29 @@
-https://iiif.io/api/cookbook/recipe/0036-composition-from-multiple-images/manifest.json
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.org/iiif/collection/sangaku-archive",
+    "type": "Collection",
+    "label": {
+      "en": ["Sample IIIF Collection"]
+    },
+    "summary": {
+      "en": ["Sangaku archive preview."]
+    },
+    "items": [
+      {
+"id": "https://iiif.io/api/cookbook/recipe/0036-composition-from-multiple-images/manifest.json",
+"type": "Manifest"
+          }
+      }
+    ],
+    "seeAlso": [
+      {
+        "id": "https://example.org/api/sangaku-metadata",
+        "type": "Dataset",
+        "format": "application/json",
+        "label": {
+          "en": ["Additional Sangaku Metadata"]
+        }
+      }
+    ]
+  }
+  
