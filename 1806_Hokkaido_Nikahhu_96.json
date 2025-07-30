@@ -212,7 +212,7 @@
             }
                 ]
                     },
-            "target": "https://sangaku-archive.org/app/api/sangaku_manifests/3/1806_Hokkaido_Nikahhu_96.json/canvas/01"
+            "target": "https://sangaku-archive.org/app/api/sangaku_manifests/3/1806_Hokkaido_Nikahhu_96.json/canvas/01#xywh=0,0,2632,292"
             },
     {
         "id": "https://sangaku-archive.org/app/api/sangaku_manifests/3/1806_Hokkaido_Nikahhu_96.json/canvas/01/annotationPage/annotation",
@@ -232,7 +232,7 @@
                         }
                     ]
                 },
-         "target": "https://sangaku-archive.org/app/api/sangaku_manifests/3/1806_Hokkaido_Nikahhu_96.json/canvas/01#xywh=292,0,2632,2370" 
+         "target": "https://sangaku-archive.org/app/api/sangaku_manifests/3/1806_Hokkaido_Nikahhu_96.json/canvas/01#xywh=293,0,2632,2370" 
             }
                         ]
                     }
