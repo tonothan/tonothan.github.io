@@ -187,6 +187,8 @@
     "ニーカッフ義経社・Nikahhu Yoshitsune Shrine"
     ]
     },
+     "height": 2632,
+      "width": 2370,    
     "items": [
     {
     "type": "AnnotationPage",
@@ -200,8 +202,8 @@
     "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00028562%2FRB00028562_00023_0.ptif/104,8,396,2640/max/0/default.jpg",
     "type": "Image",
     "format": "image/jpeg",
-    "width": 3000,
-    "height": 2259,
+    "width": 292,
+    "height": 2632,
     "service": [
     {
     "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00028562%2FRB00028562_00023_0.ptif/",
@@ -215,50 +217,16 @@
     ]
     }
     ],
-    "thumbnail": [
     {
-    "id": "https://sangaku-archive.org/iiif/3/RB00028562_00023_0.ptiff/full/!200,200/0/default.jpg",
-    "type": "Image",
-    "format": "image/jpeg",
-    "width": 200,
-    "height": 150,
-    "viewingDirection": "right-to-left",
-    "behavior": [
-    "individuals"
-    ],
-    "service": [
-    {
-    "id": "https://sangaku-archive.org/iiif/3/RB00028562_00023_0.ptiff",
-    "type": "ImageService3",
-    "profile": "level1"
-    }
-    ]
-    }
-    ]
-    },
-    {
-    "id": "https://sangaku-archive.org/app/api/sangaku_manifests/3/1806_Hokkaido_Nikahhu_96.json/canvas/02",
-    "type": "Canvas",
-    "label": {
-    "none": [
-    "ニーカッフ義経社・Nikahhu Yoshitsune Shrine"
-    ]
-    },
-    "items": [
-    {
-    "type": "AnnotationPage",
-    "id": "https://sangaku-archive.org/app/api/sangaku_manifests/3/1806_Hokkaido_Nikahhu_96.json/canvas/02/annotationPage",
-    "items": [
-    {
-    "id": "https://sangaku-archive.org/app/api/sangaku_manifests/3/1806_Hokkaido_Nikahhu_96.json/canvas/02/annotationPage/annotation",
+    "id": "https://sangaku-archive.org/app/api/sangaku_manifests/3/1806_Hokkaido_Nikahhu_96.json/canvas/01/annotationPage/annotation",
     "type": "Annotation",
     "motivation": "painting",
     "body": {
     "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00028562%2FRB00028562_00024_0.ptif/2256,24,1168,2616/max/0/default.jpg",
     "type": "Image",
     "format": "image/jpeg",
-    "width": 3000,
-    "height": 2259,
+    "width": 1088,
+    "height": 2592,
     "service": [
     {
     "id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00028562%2FRB00028562_00024_0.ptif",
@@ -267,7 +235,8 @@
     }
     ]
     },
-    "target": "https://sangaku-archive.org/app/api/sangaku_manifests/3/1806_Hokkaido_Nikahhu_96.json/canvas/02"
+    "target": "https://sangaku-archive.org/app/api/sangaku_manifests/3/1806_Hokkaido_Nikahhu_96.json/canvas/01#xywh=292,0,2632,2370"
+        
     }
     ]
     }
