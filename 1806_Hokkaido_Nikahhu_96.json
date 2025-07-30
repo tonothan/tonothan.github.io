@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://sangaku-archive.org/app/api/sangaku_manifests/3/1806_Hokkaido_Nikahhu_96.json",
+    "id": "https://tonothan.github.io/1806_Hokkaido_Nikahhu_96.json",
     "type": "Manifest",
     "label": {
     "none": [
@@ -155,11 +155,11 @@
     ],
     "navDate": "1806",
     "navPlace": {
-    "id": "https://sangaku-archive.org/app/api/sangaku_manifests/3/1806_Hokkaido_Nikahhu_96.json",
+    "id": "https://tonothan.github.io/1806_Hokkaido_Nikahhu_96.json",
     "type": "FeatureCollection",
     "features": [
     {
-    "id": "https://sangaku-archive.org/app/api/sangaku_manifests/3/1806_Hokkaido_Nikahhu_96.json",
+    "id": "https://tonothan.github.io/1806_Hokkaido_Nikahhu_96.json",
     "type": "Feature",
     "properties": {
     "label": {
@@ -180,7 +180,7 @@
     },
     "items": [
         {
-            "id": "https://sangaku-archive.org/app/api/sangaku_manifests/3/1806_Hokkaido_Nikahhu_96.json/canvas/01",
+            "id": "https://tonothan.github.io/1806_Hokkaido_Nikahhu_96.json/canvas/01",
             "type": "Canvas",
             "label": {
             "none":     [
@@ -192,10 +192,10 @@
             "items": [
                 {
                 "type": "AnnotationPage",
-                "id": "https://sangaku-archive.org/app/api/sangaku_manifests/3/1806_Hokkaido_Nikahhu_96.json/canvas/01/annotationPage",
+                "id": "https://tonothan.github.io/1806_Hokkaido_Nikahhu_96.json/canvas/01/annotationPage",
                 "items": [
             {
-                "id": "https://sangaku-archive.org/app/api/sangaku_manifests/3/1806_Hokkaido_Nikahhu_96.json/canvas/01/annotationPage/annotation",
+                "id": "https://tonothan.github.io/1806_Hokkaido_Nikahhu_96.json/canvas/01/annotationPage/annotation",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -212,10 +212,10 @@
             }
                 ]
                     },
-            "target": "https://sangaku-archive.org/app/api/sangaku_manifests/3/1806_Hokkaido_Nikahhu_96.json/canvas/01#xywh=0,0,2632,292"
+            "target": "https://tonothan.github.io/1806_Hokkaido_Nikahhu_96.json/canvas/01#xywh=0,0,2632,292"
             },
     {
-        "id": "https://sangaku-archive.org/app/api/sangaku_manifests/3/1806_Hokkaido_Nikahhu_96.json/canvas/01/annotationPage/annotation",
+        "id": "https://tonothan.github.io/1806_Hokkaido_Nikahhu_96.json/canvas/01/annotationPage/annotation",
         "type": "Annotation",
         "motivation": "painting",
         "body": {
@@ -232,7 +232,7 @@
                         }
                     ]
                 },
-         "target": "https://sangaku-archive.org/app/api/sangaku_manifests/3/1806_Hokkaido_Nikahhu_96.json/canvas/01#xywh=293,0,2632,2370" 
+         "target": "https://tonothan.github.io/1806_Hokkaido_Nikahhu_96.json/canvas/01#xywh=293,0,2632,2370" 
             }
                         ]
                     }
