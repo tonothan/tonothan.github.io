@@ -9,6 +9,10 @@
       "en": ["Sangaku archive preview."]
     },
     "items": [
+        {
+id: "https://sangaku-archive.com/app/api/sangaku_manifests/3/1824_Nagano_Komoro_66.json",
+type: "Manifest"
+},
 {
 "id": "https://sangaku-archive.com/app/api/sangaku_manifests/3/1806_Hokkaido_Nikahhu_96.json",
 "type": "Manifest"
